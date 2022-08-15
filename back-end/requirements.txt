@@ -1,0 +1,10 @@
+flask
+numpy
+sklearn
+gunicorn
+farasapy
+pyarabic
+requests
+pandas
+nltk
+
