@@ -1,0 +1,7580 @@
+[
+  {
+    "text": "عامل",
+    "frequency": 25},
+  {
+    "text": "وزير",
+    "frequency": 25},
+  {
+    "text": "عدم",
+    "frequency": 5},
+  {
+    "text": "بحث",
+    "frequency": 105},
+  {
+    "text": "حق",
+    "frequency": 29},
+  {
+    "text": "انطلاق",
+    "frequency": 9},
+  {
+    "text": "رغبة",
+    "frequency": 4},
+  {
+    "text": "نجاعة",
+    "frequency": 4},
+  {
+    "text": "اقتضى",
+    "frequency": 9},
+  {
+    "text": "حفري",
+    "frequency": 2},
+  {
+    "text": "تطوير",
+    "frequency": 27},
+  {
+    "text": "جامعي",
+    "frequency": 59},
+  {
+    "text": "ولد",
+    "frequency": 2},
+  {
+    "text": "تجاوز",
+    "frequency": 10},
+  {
+    "text": "محمد",
+    "frequency": 176},
+  {
+    "text": "جامعة",
+    "frequency": 259},
+  {
+    "text": "شرق",
+    "frequency": 77},
+  {
+    "text": "رقمي",
+    "frequency": 25},
+  {
+    "text": "بفنومنولوجيا",
+    "frequency": 1},
+  {
+    "text": "اجتماع",
+    "frequency": 9},
+  {
+    "text": "واسع",
+    "frequency": 7},
+  {
+    "text": "ضمن",
+    "frequency": 16},
+  {
+    "text": "موقع",
+    "frequency": 7},
+  {
+    "text": "عالمي",
+    "frequency": 10},
+  {
+    "text": "شخصية",
+    "frequency": 9},
+  {
+    "text": "فعالية",
+    "frequency": 14},
+  {
+    "text": "سيد",
+    "frequency": 145},
+  {
+    "text": "أسرة",
+    "frequency": 15},
+  {
+    "text": "مساهمة",
+    "frequency": 14},
+  {
+    "text": "باقي",
+    "frequency": 5},
+  {
+    "text": "مردودي",
+    "frequency": 3},
+  {
+    "text": "هاى",
+    "frequency": 4},
+  {
+    "text": "بنية",
+    "frequency": 11},
+  {
+    "text": "اعترى",
+    "frequency": 1},
+  {
+    "text": "هجرة",
+    "frequency": 12},
+  {
+    "text": "قيمي",
+    "frequency": 1},
+  {
+    "text": "إنجاح",
+    "frequency": 5},
+  {
+    "text": "اجتماعي",
+    "frequency": 33},
+  {
+    "text": "آلة",
+    "frequency": 2},
+  {
+    "text": "برنيفييه",
+    "frequency": 1},
+  {
+    "text": "استثمار",
+    "frequency": 17},
+  {
+    "text": "تنزيل",
+    "frequency": 4},
+  {
+    "text": "معنى",
+    "frequency": 13},
+  {
+    "text": "إمكانية",
+    "frequency": 11},
+  {
+    "text": "منشغل",
+    "frequency": 2},
+  {
+    "text": "سبق",
+    "frequency": 1},
+  {
+    "text": "خدمة",
+    "frequency": 23},
+  {
+    "text": "منبهرين",
+    "frequency": 2},
+  {
+    "text": "مماثل",
+    "frequency": 1},
+  {
+    "text": "دراسة",
+    "frequency": 41},
+  {
+    "text": "منظمة",
+    "frequency": 9},
+  {
+    "text": "سؤال",
+    "frequency": 3},
+  {
+    "text": "بعثة",
+    "frequency": 10},
+  {
+    "text": "دعامة",
+    "frequency": 8},
+  {
+    "text": "ربح",
+    "frequency": 3},
+  {
+    "text": "شقيق",
+    "frequency": 4},
+  {
+    "text": "أكد",
+    "frequency": 10},
+  {
+    "text": "قمر",
+    "frequency": 3},
+  {
+    "text": "عيادة",
+    "frequency": 4},
+  {
+    "text": "ضم",
+    "frequency": 6},
+  {
+    "text": "أدرك",
+    "frequency": 7},
+  {
+    "text": "تشاور",
+    "frequency": 11},
+  {
+    "text": "منطقة",
+    "frequency": 11},
+  {
+    "text": "كامل",
+    "frequency": 5},
+  {
+    "text": "ترابي",
+    "frequency": 12},
+  {
+    "text": "طالب",
+    "frequency": 146},
+  {
+    "text": "تنموي",
+    "frequency": 15},
+  {
+    "text": "إنجاز",
+    "frequency": 21},
+  {
+    "text": "شكر",
+    "frequency": 42},
+  {
+    "text": "إشعاع",
+    "frequency": 17},
+  {
+    "text": "فكر",
+    "frequency": 43},
+  {
+    "text": "واقع",
+    "frequency": 8},
+  {
+    "text": "علمي",
+    "frequency": 117},
+  {
+    "text": "متخصص",
+    "frequency": 4},
+  {
+    "text": "صالون",
+    "frequency": 4},
+  {
+    "text": "تمكن",
+    "frequency": 3},
+  {
+    "text": "نظرة",
+    "frequency": 4},
+  {
+    "text": "وضعية",
+    "frequency": 5},
+  {
+    "text": "عام",
+    "frequency": 39},
+  {
+    "text": "تنمية",
+    "frequency": 43},
+  {
+    "text": "عالي",
+    "frequency": 69},
+  {
+    "text": "نسبة",
+    "frequency": 12},
+  {
+    "text": "حب",
+    "frequency": 2},
+  {
+    "text": "مجموعة",
+    "frequency": 12},
+  {
+    "text": "ابتداء",
+    "frequency": 4},
+  {
+    "text": "تعليمي",
+    "frequency": 2},
+  {
+    "text": "عدالة",
+    "frequency": 4},
+  {
+    "text": "مناسب",
+    "frequency": 8},
+  {
+    "text": "مهارة",
+    "frequency": 5},
+  {
+    "text": "شخص",
+    "frequency": 1},
+  {
+    "text": "هنيء",
+    "frequency": 14},
+  {
+    "text": "استئناف",
+    "frequency": 2},
+  {
+    "text": "جديد",
+    "frequency": 67},
+  {
+    "text": "أيض",
+    "frequency": 6},
+  {
+    "text": "مكون",
+    "frequency": 24},
+  {
+    "text": "عبد",
+    "frequency": 29},
+  {
+    "text": "أصر",
+    "frequency": 1},
+  {
+    "text": "تعليم",
+    "frequency": 86},
+  {
+    "text": "نقاهة",
+    "frequency": 2},
+  {
+    "text": "قدرة",
+    "frequency": 22},
+  {
+    "text": "أعلن",
+    "frequency": 3},
+  {
+    "text": "فنومنولوجيا",
+    "frequency": 6},
+  {
+    "text": "ابتكار",
+    "frequency": 68},
+  {
+    "text": "مهمة",
+    "frequency": 8},
+  {
+    "text": "0",
+    "frequency": 8},
+  {
+    "text": "سياق",
+    "frequency": 13},
+  {
+    "text": "مجد",
+    "frequency": 3},
+  {
+    "text": "مجلس",
+    "frequency": 36},
+  {
+    "text": "كائن",
+    "frequency": 17},
+  {
+    "text": "آن",
+    "frequency": 2},
+  {
+    "text": "جهوي",
+    "frequency": 45},
+  {
+    "text": "مغربي",
+    "frequency": 45},
+  {
+    "text": "عصر",
+    "frequency": 16},
+  {
+    "text": "مدرسة",
+    "frequency": 22},
+  {
+    "text": "إثر",
+    "frequency": 7},
+  {
+    "text": "مناظرة",
+    "frequency": 32},
+  {
+    "text": "مادة",
+    "frequency": 3},
+  {
+    "text": "تشاوري",
+    "frequency": 20},
+  {
+    "text": "خلال",
+    "frequency": 37},
+  {
+    "text": "تراث",
+    "frequency": 5},
+  {
+    "text": "انتظار",
+    "frequency": 4},
+  {
+    "text": "ثقافة",
+    "frequency": 11},
+  {
+    "text": "وجدة",
+    "frequency": 96},
+  {
+    "text": "فاح",
+    "frequency": 3},
+  {
+    "text": "أسبوع",
+    "frequency": 5},
+  {
+    "text": "دولة",
+    "frequency": 4},
+  {
+    "text": "نهائي",
+    "frequency": 3},
+  {
+    "text": "جهة",
+    "frequency": 114},
+  {
+    "text": "وجودي",
+    "frequency": 7},
+  {
+    "text": "لطيف",
+    "frequency": 16},
+  {
+    "text": "مختلف",
+    "frequency": 22},
+  {
+    "text": "جميل",
+    "frequency": 3},
+  {
+    "text": "نسل",
+    "frequency": 4},
+  {
+    "text": "إنسان",
+    "frequency": 53},
+  {
+    "text": "صحافة",
+    "frequency": 5},
+  {
+    "text": "يوم",
+    "frequency": 62},
+  {
+    "text": "ملائم",
+    "frequency": 5},
+  {
+    "text": "شمل",
+    "frequency": 5},
+  {
+    "text": "نظرية",
+    "frequency": 5},
+  {
+    "text": "مرئي",
+    "frequency": 7},
+  {
+    "text": "عفو",
+    "frequency": 7},
+  {
+    "text": "مناقشة",
+    "frequency": 11},
+  {
+    "text": "وادي",
+    "frequency": 3},
+  {
+    "text": "قرطبي",
+    "frequency": 2},
+  {
+    "text": "نموذج",
+    "frequency": 26},
+  {
+    "text": "وضع",
+    "frequency": 13},
+  {
+    "text": "ندوة",
+    "frequency": 7},
+  {
+    "text": "طبيعة",
+    "frequency": 7},
+  {
+    "text": "قضية",
+    "frequency": 6},
+  {
+    "text": "نزه",
+    "frequency": 1},
+  {
+    "text": "وطني",
+    "frequency": 44},
+  {
+    "text": "إجابة",
+    "frequency": 1},
+  {
+    "text": "غالي",
+    "frequency": 3},
+  {
+    "text": "أكبر",
+    "frequency": 8},
+  {
+    "text": "داخل",
+    "frequency": 9},
+  {
+    "text": "نسيان",
+    "frequency": 2},
+  {
+    "text": "ذكر",
+    "frequency": 11},
+  {
+    "text": "كيفية",
+    "frequency": 2},
+  {
+    "text": "بشري",
+    "frequency": 7},
+  {
+    "text": "معرفي",
+    "frequency": 10},
+  {
+    "text": "إندبندنت",
+    "frequency": 1},
+  {
+    "text": "كلية",
+    "frequency": 52},
+  {
+    "text": "زغلول",
+    "frequency": 22},
+  {
+    "text": "مكان",
+    "frequency": 7},
+  {
+    "text": "جلالة",
+    "frequency": 12},
+  {
+    "text": "تحقيق",
+    "frequency": 11},
+  {
+    "text": "كبير",
+    "frequency": 14},
+  {
+    "text": "كواكبي",
+    "frequency": 1},
+  {
+    "text": "الع",
+    "frequency": 6},
+  {
+    "text": "دخول",
+    "frequency": 4},
+  {
+    "text": "أحادي",
+    "frequency": 2},
+  {
+    "text": "تم",
+    "frequency": 31},
+  {
+    "text": "استاذ",
+    "frequency": 2},
+  {
+    "text": "تخصص",
+    "frequency": 22},
+  {
+    "text": "ود",
+    "frequency": 5},
+  {
+    "text": "فئة",
+    "frequency": 9},
+  {
+    "text": "رحب",
+    "frequency": 7},
+  {
+    "text": "افريقيا",
+    "frequency": 7},
+  {
+    "text": "بيداغوجي",
+    "frequency": 9},
+  {
+    "text": "فلسفة",
+    "frequency": 67},
+  {
+    "text": "بلد",
+    "frequency": 8},
+  {
+    "text": "مبدئي",
+    "frequency": 1},
+  {
+    "text": "طبيب",
+    "frequency": 5},
+  {
+    "text": "جلسة",
+    "frequency": 40},
+  {
+    "text": "توقيع",
+    "frequency": 18},
+  {
+    "text": "متميز",
+    "frequency": 9},
+  {
+    "text": "شرقي",
+    "frequency": 7},
+  {
+    "text": "خصص",
+    "frequency": 7},
+  {
+    "text": "تقدم",
+    "frequency": 13},
+  {
+    "text": "حقق",
+    "frequency": 6},
+  {
+    "text": "تعلق",
+    "frequency": 7},
+  {
+    "text": "تحضير",
+    "frequency": 9},
+  {
+    "text": "عد",
+    "frequency": 7},
+  {
+    "text": "ياسر",
+    "frequency": 2},
+  {
+    "text": "آخر",
+    "frequency": 31},
+  {
+    "text": "ابن",
+    "frequency": 25},
+  {
+    "text": "رياضي",
+    "frequency": 19},
+  {
+    "text": "طيب",
+    "frequency": 3},
+  {
+    "text": "قناة",
+    "frequency": 1},
+  {
+    "text": "مشاورة",
+    "frequency": 16},
+  {
+    "text": "توجيه",
+    "frequency": 4},
+  {
+    "text": "أفريقيا",
+    "frequency": 5},
+  {
+    "text": "باحث",
+    "frequency": 19},
+  {
+    "text": "فراق",
+    "frequency": 3},
+  {
+    "text": "مرموق",
+    "frequency": 2},
+  {
+    "text": "الله",
+    "frequency": 43},
+  {
+    "text": "منظومة",
+    "frequency": 36},
+  {
+    "text": "لماذا",
+    "frequency": 2},
+  {
+    "text": "كتاب",
+    "frequency": 15},
+  {
+    "text": "جاري",
+    "frequency": 6},
+  {
+    "text": "تشغيل",
+    "frequency": 1},
+  {
+    "text": "أشغال",
+    "frequency": 5},
+  {
+    "text": "رحمة",
+    "frequency": 5},
+  {
+    "text": "باقة",
+    "frequency": 1},
+  {
+    "text": "مقاربة",
+    "frequency": 13},
+  {
+    "text": "شغل",
+    "frequency": 9},
+  {
+    "text": "مطالبة",
+    "frequency": 4},
+  {
+    "text": "تصنيف",
+    "frequency": 5},
+  {
+    "text": "تحمل",
+    "frequency": 1},
+  {
+    "text": "اجتهد",
+    "frequency": 4},
+  {
+    "text": "معهد",
+    "frequency": 3},
+  {
+    "text": "اسري",
+    "frequency": 1},
+  {
+    "text": "تدبير",
+    "frequency": 4},
+  {
+    "text": "مركب",
+    "frequency": 6},
+  {
+    "text": "عمر",
+    "frequency": 4},
+  {
+    "text": "خاص",
+    "frequency": 8},
+  {
+    "text": "أوحى",
+    "frequency": 2},
+  {
+    "text": "وحدة",
+    "frequency": 11},
+  {
+    "text": "إبداع",
+    "frequency": 20},
+  {
+    "text": "فرنسي",
+    "frequency": 5},
+  {
+    "text": "طبي",
+    "frequency": 11},
+  {
+    "text": "تمييز",
+    "frequency": 3},
+  {
+    "text": "فوج",
+    "frequency": 1},
+  {
+    "text": "تغمد",
+    "frequency": 11},
+  {
+    "text": "مدينة",
+    "frequency": 18},
+  {
+    "text": "كندا",
+    "frequency": 2},
+  {
+    "text": "تجربة",
+    "frequency": 41},
+  {
+    "text": "تسامح",
+    "frequency": 3},
+  {
+    "text": "تمثال",
+    "frequency": 3},
+  {
+    "text": "مايقوم",
+    "frequency": 3},
+  {
+    "text": "حضور",
+    "frequency": 23},
+  {
+    "text": "فريق",
+    "frequency": 5},
+  {
+    "text": "تغير",
+    "frequency": 2},
+  {
+    "text": "مستوى",
+    "frequency": 29},
+  {
+    "text": "مستشار",
+    "frequency": 1},
+  {
+    "text": "قرص",
+    "frequency": 3},
+  {
+    "text": "نزهة",
+    "frequency": 2},
+  {
+    "text": "حكومة",
+    "frequency": 7},
+  {
+    "text": "سائل",
+    "frequency": 8},
+  {
+    "text": "عرف",
+    "frequency": 14},
+  {
+    "text": "تفكير",
+    "frequency": 26},
+  {
+    "text": "أقدم",
+    "frequency": 5},
+  {
+    "text": "تابع",
+    "frequency": 12},
+  {
+    "text": "زخر",
+    "frequency": 4},
+  {
+    "text": "مقتضى",
+    "frequency": 3},
+  {
+    "text": "صورة",
+    "frequency": 8},
+  {
+    "text": "احترازي",
+    "frequency": 2},
+  {
+    "text": "وقف",
+    "frequency": 6},
+  {
+    "text": "نساء",
+    "frequency": 10},
+  {
+    "text": "تلقى",
+    "frequency": 14},
+  {
+    "text": "رهان",
+    "frequency": 10},
+  {
+    "text": "رئيس",
+    "frequency": 66},
+  {
+    "text": "لقاء",
+    "frequency": 40},
+  {
+    "text": "حركة",
+    "frequency": 3},
+  {
+    "text": "حاكم",
+    "frequency": 6},
+  {
+    "text": "طاقة",
+    "frequency": 25},
+  {
+    "text": "روح",
+    "frequency": 3},
+  {
+    "text": "مهم",
+    "frequency": 2},
+  {
+    "text": "لامعنى",
+    "frequency": 4},
+  {
+    "text": "إستاد",
+    "frequency": 14},
+  {
+    "text": "صانع",
+    "frequency": 1},
+  {
+    "text": "عقل",
+    "frequency": 14},
+  {
+    "text": "لجامعتنا",
+    "frequency": 2},
+  {
+    "text": "أحمر",
+    "frequency": 6},
+  {
+    "text": "أساسي",
+    "frequency": 24},
+  {
+    "text": "إنصات",
+    "frequency": 15},
+  {
+    "text": "بد",
+    "frequency": 8},
+  {
+    "text": "صاحب",
+    "frequency": 22},
+  {
+    "text": "دولي",
+    "frequency": 21},
+  {
+    "text": "صناعة",
+    "frequency": 10},
+  {
+    "text": "صغير",
+    "frequency": 12},
+  {
+    "text": "تقديم",
+    "frequency": 13},
+  {
+    "text": "رسالة",
+    "frequency": 9},
+  {
+    "text": "تحليل",
+    "frequency": 14},
+  {
+    "text": "اللاعقلاني",
+    "frequency": 3},
+  {
+    "text": "اكتشف",
+    "frequency": 5},
+  {
+    "text": "سياسي",
+    "frequency": 11},
+  {
+    "text": "مجهود",
+    "frequency": 9},
+  {
+    "text": "مجال",
+    "frequency": 32},
+  {
+    "text": "فضاء",
+    "frequency": 7},
+  {
+    "text": "فكري",
+    "frequency": 10},
+  {
+    "text": "حالي",
+    "frequency": 11},
+  {
+    "text": "نشاط",
+    "frequency": 7},
+  {
+    "text": "شامل",
+    "frequency": 9},
+  {
+    "text": "إسلام",
+    "frequency": 14},
+  {
+    "text": "ولاية",
+    "frequency": 6},
+  {
+    "text": "أستاذ",
+    "frequency": 41},
+  {
+    "text": "حيز",
+    "frequency": 3},
+  {
+    "text": "إداري",
+    "frequency": 11},
+  {
+    "text": "حي",
+    "frequency": 15},
+  {
+    "text": "مدني",
+    "frequency": 14},
+  {
+    "text": "تحول",
+    "frequency": 24},
+  {
+    "text": "استثنائي",
+    "frequency": 1},
+  {
+    "text": "طرابلس",
+    "frequency": 1},
+  {
+    "text": "أوسكار",
+    "frequency": 1},
+  {
+    "text": "تشجيع",
+    "frequency": 7},
+  {
+    "text": "مخطط",
+    "frequency": 27},
+  {
+    "text": "أخنوش",
+    "frequency": 5},
+  {
+    "text": "راوند",
+    "frequency": 2},
+  {
+    "text": "إقليم",
+    "frequency": 16},
+  {
+    "text": "تمتع",
+    "frequency": 2},
+  {
+    "text": "أصالة",
+    "frequency": 6},
+  {
+    "text": "بريد",
+    "frequency": 1},
+  {
+    "text": "ملفوظ",
+    "frequency": 1},
+  {
+    "text": "مفتوح",
+    "frequency": 5},
+  {
+    "text": "هدد",
+    "frequency": 2},
+  {
+    "text": "أبد",
+    "frequency": 2},
+  {
+    "text": "خصوص",
+    "frequency": 6},
+  {
+    "text": "تحكيم",
+    "frequency": 3},
+  {
+    "text": "خارج",
+    "frequency": 10},
+  {
+    "text": "قوي",
+    "frequency": 6},
+  {
+    "text": "أثنى",
+    "frequency": 2},
+  {
+    "text": "قيمة",
+    "frequency": 7},
+  {
+    "text": "مسمى",
+    "frequency": 5},
+  {
+    "text": "تعالى",
+    "frequency": 4},
+  {
+    "text": "كلمة",
+    "frequency": 11},
+  {
+    "text": "مبدأي",
+    "frequency": 3},
+  {
+    "text": "رام",
+    "frequency": 6},
+  {
+    "text": "بناء",
+    "frequency": 20},
+  {
+    "text": "بلاغ",
+    "frequency": 8},
+  {
+    "text": "اكتشاف",
+    "frequency": 4},
+  {
+    "text": "أسقام",
+    "frequency": 3},
+  {
+    "text": "استخرج",
+    "frequency": 4},
+  {
+    "text": "تعميق",
+    "frequency": 1},
+  {
+    "text": "تأهل",
+    "frequency": 4},
+  {
+    "text": "أنجز",
+    "frequency": 5},
+  {
+    "text": "مزيد",
+    "frequency": 14},
+  {
+    "text": "نص",
+    "frequency": 2},
+  {
+    "text": "شراكة",
+    "frequency": 12},
+  {
+    "text": "طيران",
+    "frequency": 1},
+  {
+    "text": "تقصي",
+    "frequency": 4},
+  {
+    "text": "وجب",
+    "frequency": 10},
+  {
+    "text": "نادي",
+    "frequency": 7},
+  {
+    "text": "داخلة",
+    "frequency": 15},
+  {
+    "text": "جنة",
+    "frequency": 9},
+  {
+    "text": "متوسط",
+    "frequency": 5},
+  {
+    "text": "مثمر",
+    "frequency": 7},
+  {
+    "text": "وعي",
+    "frequency": 15},
+  {
+    "text": "بطولة",
+    "frequency": 5},
+  {
+    "text": "مشمول",
+    "frequency": 7},
+  {
+    "text": "عربي",
+    "frequency": 25},
+  {
+    "text": "ممارسة",
+    "frequency": 5},
+  {
+    "text": "إنساني",
+    "frequency": 21},
+  {
+    "text": "صديق",
+    "frequency": 6},
+  {
+    "text": "أحرى",
+    "frequency": 4},
+  {
+    "text": "أشر",
+    "frequency": 1},
+  {
+    "text": "حياة",
+    "frequency": 15},
+  {
+    "text": "نظافة",
+    "frequency": 1},
+  {
+    "text": "صحفي",
+    "frequency": 5},
+  {
+    "text": "سباق",
+    "frequency": 3},
+  {
+    "text": "تنوير",
+    "frequency": 4},
+  {
+    "text": "تطور",
+    "frequency": 11},
+  {
+    "text": "بينسفانغر",
+    "frequency": 3},
+  {
+    "text": "استطاع",
+    "frequency": 20},
+  {
+    "text": "بكلية",
+    "frequency": 6},
+  {
+    "text": "العلوم",
+    "frequency": 18},
+  {
+    "text": "حصول",
+    "frequency": 5},
+  {
+    "text": "راءع",
+    "frequency": 1},
+  {
+    "text": "علاقة",
+    "frequency": 14},
+  {
+    "text": "أفريقي",
+    "frequency": 20},
+  {
+    "text": "موضع",
+    "frequency": 5},
+  {
+    "text": "اعتقاد",
+    "frequency": 7},
+  {
+    "text": "تتويج",
+    "frequency": 3},
+  {
+    "text": "خارطة",
+    "frequency": 8},
+  {
+    "text": "إطار",
+    "frequency": 42},
+  {
+    "text": "منحة",
+    "frequency": 8},
+  {
+    "text": "برنامج",
+    "frequency": 15},
+  {
+    "text": "عريق",
+    "frequency": 4},
+  {
+    "text": "ساهم",
+    "frequency": 7},
+  {
+    "text": "عالم",
+    "frequency": 37},
+  {
+    "text": "أوجار",
+    "frequency": 3},
+  {
+    "text": "مواطنة",
+    "frequency": 8},
+  {
+    "text": "تباين",
+    "frequency": 1},
+  {
+    "text": "اعتماد",
+    "frequency": 13},
+  {
+    "text": "متمني",
+    "frequency": 2},
+  {
+    "text": "مسبوق",
+    "frequency": 2},
+  {
+    "text": "حول",
+    "frequency": 33},
+  {
+    "text": "سينغال",
+    "frequency": 2},
+  {
+    "text": "رأي",
+    "frequency": 4},
+  {
+    "text": "مقولة",
+    "frequency": 1},
+  {
+    "text": "ملكية",
+    "frequency": 9},
+  {
+    "text": "مهندس",
+    "frequency": 9},
+  {
+    "text": "رمز",
+    "frequency": 8},
+  {
+    "text": "جنوب",
+    "frequency": 4},
+  {
+    "text": "قيادي",
+    "frequency": 7},
+  {
+    "text": "نتيجة",
+    "frequency": 6},
+  {
+    "text": "مداوا",
+    "frequency": 10},
+  {
+    "text": "انقطاع",
+    "frequency": 5},
+  {
+    "text": "صحي",
+    "frequency": 4},
+  {
+    "text": "إلزامي",
+    "frequency": 2},
+  {
+    "text": "عرض",
+    "frequency": 10},
+  {
+    "text": "فاعل",
+    "frequency": 17},
+  {
+    "text": "وهمي",
+    "frequency": 2},
+  {
+    "text": "جرد",
+    "frequency": 2},
+  {
+    "text": "دام",
+    "frequency": 6},
+  {
+    "text": "متحضر",
+    "frequency": 2},
+  {
+    "text": "جنوبي",
+    "frequency": 13},
+  {
+    "text": "رياضة",
+    "frequency": 15},
+  {
+    "text": "نوع",
+    "frequency": 11},
+  {
+    "text": "إقصائي",
+    "frequency": 6},
+  {
+    "text": "أمير",
+    "frequency": 1},
+  {
+    "text": "غد",
+    "frequency": 2},
+  {
+    "text": "عضو",
+    "frequency": 10},
+  {
+    "text": "مغرب",
+    "frequency": 32},
+  {
+    "text": "فائدة",
+    "frequency": 6},
+  {
+    "text": "مداخلة",
+    "frequency": 3},
+  {
+    "text": "أرسل",
+    "frequency": 4},
+  {
+    "text": "ملك",
+    "frequency": 7},
+  {
+    "text": "عضوية",
+    "frequency": 3},
+  {
+    "text": "ركيزة",
+    "frequency": 3},
+  {
+    "text": "إقليمي",
+    "frequency": 11},
+  {
+    "text": "طلابي",
+    "frequency": 7},
+  {
+    "text": "تشرف",
+    "frequency": 4},
+  {
+    "text": "نمساوي",
+    "frequency": 5},
+  {
+    "text": "عيش",
+    "frequency": 5},
+  {
+    "text": "قال",
+    "frequency": 15},
+  {
+    "text": "جيدو",
+    "frequency": 15},
+  {
+    "text": "خلاص",
+    "frequency": 1},
+  {
+    "text": "عوي",
+    "frequency": 6},
+  {
+    "text": "متمحور",
+    "frequency": 2},
+  {
+    "text": "ترجم",
+    "frequency": 1},
+  {
+    "text": "منع",
+    "frequency": 3},
+  {
+    "text": "دور",
+    "frequency": 22},
+  {
+    "text": "شهير",
+    "frequency": 2},
+  {
+    "text": "أبيض",
+    "frequency": 4},
+  {
+    "text": "فضل",
+    "frequency": 7},
+  {
+    "text": "إشارة",
+    "frequency": 3},
+  {
+    "text": "رامي",
+    "frequency": 6},
+  {
+    "text": "صعيد",
+    "frequency": 7},
+  {
+    "text": "تأثر",
+    "frequency": 6},
+  {
+    "text": "دبلوماسي",
+    "frequency": 5},
+  {
+    "text": "قريب",
+    "frequency": 3},
+  {
+    "text": "اتفاقية",
+    "frequency": 30},
+  {
+    "text": "منشور",
+    "frequency": 4},
+  {
+    "text": "عالق",
+    "frequency": 2},
+  {
+    "text": "دعا",
+    "frequency": 7},
+  {
+    "text": "ذاتي",
+    "frequency": 8},
+  {
+    "text": "منحوتة",
+    "frequency": 6},
+  {
+    "text": "قدم",
+    "frequency": 7},
+  {
+    "text": "إنطلاق",
+    "frequency": 1},
+  {
+    "text": "تناول",
+    "frequency": 7},
+  {
+    "text": "وطنية",
+    "frequency": 38},
+  {
+    "text": "لمس",
+    "frequency": 2},
+  {
+    "text": "حاج",
+    "frequency": 5},
+  {
+    "text": "بالغ",
+    "frequency": 14},
+  {
+    "text": "فيلسوف",
+    "frequency": 34},
+  {
+    "text": "تجهيز",
+    "frequency": 2},
+  {
+    "text": "إعداد",
+    "frequency": 10},
+  {
+    "text": "كرم",
+    "frequency": 3},
+  {
+    "text": "حاول",
+    "frequency": 3},
+  {
+    "text": "سبيل",
+    "frequency": 18},
+  {
+    "text": "التزام",
+    "frequency": 5},
+  {
+    "text": "طال",
+    "frequency": 2},
+  {
+    "text": "اختيار",
+    "frequency": 6},
+  {
+    "text": "نصر",
+    "frequency": 10},
+  {
+    "text": "مس",
+    "frequency": 3},
+  {
+    "text": "كيان",
+    "frequency": 8},
+  {
+    "text": "إنسانية",
+    "frequency": 24},
+  {
+    "text": "ناس",
+    "frequency": 7},
+  {
+    "text": "نام",
+    "frequency": 4},
+  {
+    "text": "منخرط",
+    "frequency": 4},
+  {
+    "text": "خلاف",
+    "frequency": 1},
+  {
+    "text": "كون",
+    "frequency": 5},
+  {
+    "text": "توحد",
+    "frequency": 8},
+  {
+    "text": "مسوولي",
+    "frequency": 1},
+  {
+    "text": "حقيقة",
+    "frequency": 24},
+  {
+    "text": "مؤسسة",
+    "frequency": 27},
+  {
+    "text": "وسطي",
+    "frequency": 2},
+  {
+    "text": "مجتمعي",
+    "frequency": 5},
+  {
+    "text": "فرض",
+    "frequency": 3},
+  {
+    "text": "مهنة",
+    "frequency": 12},
+  {
+    "text": "جماعة",
+    "frequency": 9},
+  {
+    "text": "أسود",
+    "frequency": 1},
+  {
+    "text": "اقتصادي",
+    "frequency": 14},
+  {
+    "text": "قروي",
+    "frequency": 2},
+  {
+    "text": "مفهوم",
+    "frequency": 5},
+  {
+    "text": "إندماج",
+    "frequency": 3},
+  {
+    "text": "سلط",
+    "frequency": 6},
+  {
+    "text": "قطاع",
+    "frequency": 13},
+  {
+    "text": "زاف",
+    "frequency": 2},
+  {
+    "text": "باطاي",
+    "frequency": 4},
+  {
+    "text": "عميد",
+    "frequency": 8},
+  {
+    "text": "اعتبار",
+    "frequency": 6},
+  {
+    "text": "إبرام",
+    "frequency": 2},
+  {
+    "text": "طريق",
+    "frequency": 8},
+  {
+    "text": "حفل",
+    "frequency": 3},
+  {
+    "text": "مجرد",
+    "frequency": 6},
+  {
+    "text": "حضارة",
+    "frequency": 10},
+  {
+    "text": "غافقي",
+    "frequency": 2},
+  {
+    "text": "حسيم",
+    "frequency": 1},
+  {
+    "text": "أنجاد",
+    "frequency": 9},
+  {
+    "text": "صخير",
+    "frequency": 3},
+  {
+    "text": "آصرة",
+    "frequency": 3},
+  {
+    "text": "حلواني",
+    "frequency": 4},
+  {
+    "text": "سلطة",
+    "frequency": 10},
+  {
+    "text": "ظل",
+    "frequency": 16},
+  {
+    "text": "مملكة",
+    "frequency": 6},
+  {
+    "text": "شمسي",
+    "frequency": 3},
+  {
+    "text": "مضمون",
+    "frequency": 4},
+  {
+    "text": "حكومي",
+    "frequency": 4},
+  {
+    "text": "بعيد",
+    "frequency": 3},
+  {
+    "text": "منتخب",
+    "frequency": 9},
+  {
+    "text": "أودى",
+    "frequency": 1},
+  {
+    "text": "طمح",
+    "frequency": 4},
+  {
+    "text": "تبني",
+    "frequency": 2},
+  {
+    "text": "يتموضع",
+    "frequency": 2},
+  {
+    "text": "منقطع",
+    "frequency": 3},
+  {
+    "text": "لهو",
+    "frequency": 1},
+  {
+    "text": "اقتدار",
+    "frequency": 1},
+  {
+    "text": "تجويد",
+    "frequency": 3},
+  {
+    "text": "تكنولوجيا",
+    "frequency": 15},
+  {
+    "text": "صلب",
+    "frequency": 3},
+  {
+    "text": "أبناء",
+    "frequency": 1},
+  {
+    "text": "وصف",
+    "frequency": 3},
+  {
+    "text": "ترأس",
+    "frequency": 6},
+  {
+    "text": "غاية",
+    "frequency": 10},
+  {
+    "text": "طور",
+    "frequency": 3},
+  {
+    "text": "وبائي",
+    "frequency": 3},
+  {
+    "text": "أخ",
+    "frequency": 1},
+  {
+    "text": "شاب",
+    "frequency": 8},
+  {
+    "text": "بلورة",
+    "frequency": 17},
+  {
+    "text": "تهمة",
+    "frequency": 5},
+  {
+    "text": "انصات",
+    "frequency": 1},
+  {
+    "text": "رقمن",
+    "frequency": 3},
+  {
+    "text": "دعم",
+    "frequency": 20},
+  {
+    "text": "مأكول",
+    "frequency": 2},
+  {
+    "text": "وتيرة",
+    "frequency": 3},
+  {
+    "text": "شوبنهاور",
+    "frequency": 1},
+  {
+    "text": "ملاءم",
+    "frequency": 2},
+  {
+    "text": "وجود",
+    "frequency": 29},
+  {
+    "text": "يونان",
+    "frequency": 3},
+  {
+    "text": "مميز",
+    "frequency": 4},
+  {
+    "text": "توجه",
+    "frequency": 5},
+  {
+    "text": "مشير",
+    "frequency": 5},
+  {
+    "text": "نائب",
+    "frequency": 22},
+  {
+    "text": "متعة",
+    "frequency": 1},
+  {
+    "text": "اسكن",
+    "frequency": 1},
+  {
+    "text": "ماستر",
+    "frequency": 5},
+  {
+    "text": "قراءة",
+    "frequency": 2},
+  {
+    "text": "تاريخ",
+    "frequency": 29},
+  {
+    "text": "شكل",
+    "frequency": 21},
+  {
+    "text": "شارك",
+    "frequency": 12},
+  {
+    "text": "قادر",
+    "frequency": 3},
+  {
+    "text": "تسريع",
+    "frequency": 10},
+  {
+    "text": "بعرورو",
+    "frequency": 3},
+  {
+    "text": "مرض",
+    "frequency": 7},
+  {
+    "text": "ياسين",
+    "frequency": 19},
+  {
+    "text": "مؤق",
+    "frequency": 3},
+  {
+    "text": "اضطلاع",
+    "frequency": 1},
+  {
+    "text": "حث",
+    "frequency": 6},
+  {
+    "text": "لايتعدى",
+    "frequency": 3},
+  {
+    "text": "تهنئة",
+    "frequency": 5},
+  {
+    "text": "حفظ",
+    "frequency": 3},
+  {
+    "text": "تنوع",
+    "frequency": 8},
+  {
+    "text": "مساءلة",
+    "frequency": 1},
+  {
+    "text": "عطل",
+    "frequency": 1},
+  {
+    "text": "مستقبل",
+    "frequency": 9},
+  {
+    "text": "قصارى",
+    "frequency": 2},
+  {
+    "text": "حال",
+    "frequency": 9},
+  {
+    "text": "وزارة",
+    "frequency": 28},
+  {
+    "text": "جل",
+    "frequency": 6},
+  {
+    "text": "ناظور",
+    "frequency": 11},
+  {
+    "text": "اختلاف",
+    "frequency": 4},
+  {
+    "text": "منتدب",
+    "frequency": 2},
+  {
+    "text": "ابتلاع",
+    "frequency": 1},
+  {
+    "text": "علاج",
+    "frequency": 14},
+  {
+    "text": "مقايضة",
+    "frequency": 1},
+  {
+    "text": "ديموقراطية",
+    "frequency": 3},
+  {
+    "text": "تويتر",
+    "frequency": 7},
+  {
+    "text": "منتسب",
+    "frequency": 2},
+  {
+    "text": "مشروع",
+    "frequency": 22},
+  {
+    "text": "معتبر",
+    "frequency": 3},
+  {
+    "text": "معا",
+    "frequency": 11},
+  {
+    "text": "فردية",
+    "frequency": 3},
+  {
+    "text": "متحف",
+    "frequency": 3},
+  {
+    "text": "أمكن",
+    "frequency": 20},
+  {
+    "text": "ميزة",
+    "frequency": 9},
+  {
+    "text": "برفيسور",
+    "frequency": 4},
+  {
+    "text": "عمل",
+    "frequency": 33},
+  {
+    "text": "17",
+    "frequency": 2},
+  {
+    "text": "بعيوي",
+    "frequency": 2},
+  {
+    "text": "مشكلة",
+    "frequency": 11},
+  {
+    "text": "حمل",
+    "frequency": 6},
+  {
+    "text": "تبادل",
+    "frequency": 3},
+  {
+    "text": "عبر",
+    "frequency": 20},
+  {
+    "text": "باريس",
+    "frequency": 4},
+  {
+    "text": "إطلال",
+    "frequency": 1},
+  {
+    "text": "طيلة",
+    "frequency": 2},
+  {
+    "text": "منفعل",
+    "frequency": 3},
+  {
+    "text": "أداء",
+    "frequency": 4},
+  {
+    "text": "مصطفى",
+    "frequency": 4},
+  {
+    "text": "بدن",
+    "frequency": 3},
+  {
+    "text": "اما",
+    "frequency": 1},
+  {
+    "text": "فيزيائي",
+    "frequency": 3},
+  {
+    "text": "تمحور",
+    "frequency": 3},
+  {
+    "text": "ضاوي",
+    "frequency": 1},
+  {
+    "text": "انضاف",
+    "frequency": 2},
+  {
+    "text": "معلاة",
+    "frequency": 1},
+  {
+    "text": "إجراء",
+    "frequency": 6},
+  {
+    "text": "انبعث",
+    "frequency": 1},
+  {
+    "text": "ظرف",
+    "frequency": 6},
+  {
+    "text": "تناقض",
+    "frequency": 4},
+  {
+    "text": "أوميكرون",
+    "frequency": 1},
+  {
+    "text": "اعتمد",
+    "frequency": 2},
+  {
+    "text": "وافي",
+    "frequency": 1},
+  {
+    "text": "مستدام",
+    "frequency": 10},
+  {
+    "text": "عقار",
+    "frequency": 3},
+  {
+    "text": "صادر",
+    "frequency": 2},
+  {
+    "text": "مخرج",
+    "frequency": 3},
+  {
+    "text": "شاهد",
+    "frequency": 1},
+  {
+    "text": "احتل",
+    "frequency": 6},
+  {
+    "text": "يقيني",
+    "frequency": 5},
+  {
+    "text": "صوري",
+    "frequency": 2},
+  {
+    "text": "حد",
+    "frequency": 29},
+  {
+    "text": "ماتشتكي",
+    "frequency": 2},
+  {
+    "text": "مصاب",
+    "frequency": 3},
+  {
+    "text": "شهادة",
+    "frequency": 11},
+  {
+    "text": "مواجهة",
+    "frequency": 10},
+  {
+    "text": "أنتج",
+    "frequency": 3},
+  {
+    "text": "تمديد",
+    "frequency": 1},
+  {
+    "text": "خضار",
+    "frequency": 2},
+  {
+    "text": "كثب",
+    "frequency": 1},
+  {
+    "text": "أحضر",
+    "frequency": 1},
+  {
+    "text": "وجداني",
+    "frequency": 2},
+  {
+    "text": "مبادرة",
+    "frequency": 10},
+  {
+    "text": "نصف",
+    "frequency": 3},
+  {
+    "text": "فلسفي",
+    "frequency": 53},
+  {
+    "text": "لجوء",
+    "frequency": 2},
+  {
+    "text": "تجارة",
+    "frequency": 3},
+  {
+    "text": "شب",
+    "frequency": 4},
+  {
+    "text": "تنظيم",
+    "frequency": 14},
+  {
+    "text": "انغماس",
+    "frequency": 1},
+  {
+    "text": "مؤهل",
+    "frequency": 7},
+  {
+    "text": "هندوسي",
+    "frequency": 1},
+  {
+    "text": "جائح",
+    "frequency": 2},
+  {
+    "text": "تفقدي",
+    "frequency": 3},
+  {
+    "text": "ساد",
+    "frequency": 7},
+  {
+    "text": "ريان",
+    "frequency": 3},
+  {
+    "text": "يوناني",
+    "frequency": 2},
+  {
+    "text": "صحراء",
+    "frequency": 5},
+  {
+    "text": "جهد",
+    "frequency": 9},
+  {
+    "text": "أرض",
+    "frequency": 7},
+  {
+    "text": "سلمى",
+    "frequency": 1},
+  {
+    "text": "افتراضي",
+    "frequency": 4},
+  {
+    "text": "معرفة",
+    "frequency": 17},
+  {
+    "text": "صنف",
+    "frequency": 1},
+  {
+    "text": "رحيم",
+    "frequency": 5},
+  {
+    "text": "تسمية",
+    "frequency": 3},
+  {
+    "text": "صلة",
+    "frequency": 4},
+  {
+    "text": "إرساء",
+    "frequency": 10},
+  {
+    "text": "وريط",
+    "frequency": 1},
+  {
+    "text": "هيئة",
+    "frequency": 9},
+  {
+    "text": "ان",
+    "frequency": 14},
+  {
+    "text": "دفة",
+    "frequency": 1},
+  {
+    "text": "أزمة",
+    "frequency": 5},
+  {
+    "text": "تعدد",
+    "frequency": 6},
+  {
+    "text": "فيزياء",
+    "frequency": 2},
+  {
+    "text": "حجم",
+    "frequency": 4},
+  {
+    "text": "وفاة",
+    "frequency": 7},
+  {
+    "text": "أعمق",
+    "frequency": 2},
+  {
+    "text": "هوية",
+    "frequency": 5},
+  {
+    "text": "هوركهايمر",
+    "frequency": 2},
+  {
+    "text": "موجود",
+    "frequency": 6},
+  {
+    "text": "أصاب",
+    "frequency": 4},
+  {
+    "text": "ضغط",
+    "frequency": 5},
+  {
+    "text": "مؤرخ",
+    "frequency": 3},
+  {
+    "text": "هدف",
+    "frequency": 11},
+  {
+    "text": "داءم",
+    "frequency": 2},
+  {
+    "text": "نعيمة",
+    "frequency": 2},
+  {
+    "text": "حملة",
+    "frequency": 5},
+  {
+    "text": "جائزة",
+    "frequency": 7},
+  {
+    "text": "قدر",
+    "frequency": 4},
+  {
+    "text": "عزاء",
+    "frequency": 3},
+  {
+    "text": "متعدد",
+    "frequency": 26},
+  {
+    "text": "صادق",
+    "frequency": 5},
+  {
+    "text": "مسؤول",
+    "frequency": 2},
+  {
+    "text": "فسيح",
+    "frequency": 14},
+  {
+    "text": "فرع",
+    "frequency": 2},
+  {
+    "text": "نفي",
+    "frequency": 4},
+  {
+    "text": "جرعة",
+    "frequency": 6},
+  {
+    "text": "ثقافي",
+    "frequency": 14},
+  {
+    "text": "ضمان",
+    "frequency": 9},
+  {
+    "text": "جاز",
+    "frequency": 5},
+  {
+    "text": "تعريف",
+    "frequency": 11},
+  {
+    "text": "رئاسة",
+    "frequency": 7},
+  {
+    "text": "خارجية",
+    "frequency": 7},
+  {
+    "text": "شفائي",
+    "frequency": 4},
+  {
+    "text": "إضافة",
+    "frequency": 10},
+  {
+    "text": "أصل",
+    "frequency": 10},
+  {
+    "text": "استراحة",
+    "frequency": 1},
+  {
+    "text": "محور",
+    "frequency": 4},
+  {
+    "text": "أشكر",
+    "frequency": 7},
+  {
+    "text": "فعال",
+    "frequency": 5},
+  {
+    "text": "معني",
+    "frequency": 5},
+  {
+    "text": "برج",
+    "frequency": 1},
+  {
+    "text": "واصل",
+    "frequency": 4},
+  {
+    "text": "منهج",
+    "frequency": 4},
+  {
+    "text": "سنة",
+    "frequency": 15},
+  {
+    "text": "فتأ",
+    "frequency": 1},
+  {
+    "text": "مشرف",
+    "frequency": 12},
+  {
+    "text": "تعاون",
+    "frequency": 18},
+  {
+    "text": "شراهة",
+    "frequency": 1},
+  {
+    "text": "جزء",
+    "frequency": 4},
+  {
+    "text": "فعل",
+    "frequency": 9},
+  {
+    "text": "ازدهر",
+    "frequency": 3},
+  {
+    "text": "أعزل",
+    "frequency": 2},
+  {
+    "text": "تمكين",
+    "frequency": 12},
+  {
+    "text": "رائع",
+    "frequency": 5},
+  {
+    "text": "فاطنة",
+    "frequency": 2},
+  {
+    "text": "سفير",
+    "frequency": 5},
+  {
+    "text": "فترة",
+    "frequency": 2},
+  {
+    "text": "فجوة",
+    "frequency": 6},
+  {
+    "text": "رعاية",
+    "frequency": 3},
+  {
+    "text": "خالد",
+    "frequency": 4},
+  {
+    "text": "زهد",
+    "frequency": 2},
+  {
+    "text": "كولف",
+    "frequency": 2},
+  {
+    "text": "فهد",
+    "frequency": 1},
+  {
+    "text": "اندرج",
+    "frequency": 5},
+  {
+    "text": "أرضية",
+    "frequency": 2},
+  {
+    "text": "وعيد",
+    "frequency": 1},
+  {
+    "text": "هذب",
+    "frequency": 1},
+  {
+    "text": "تقنية",
+    "frequency": 5},
+  {
+    "text": "كندي",
+    "frequency": 3},
+  {
+    "text": "تدنى",
+    "frequency": 2},
+  {
+    "text": "مرتبط",
+    "frequency": 1},
+  {
+    "text": "ترجمة",
+    "frequency": 5},
+  {
+    "text": "باسيل",
+    "frequency": 1},
+  {
+    "text": "بداية",
+    "frequency": 3},
+  {
+    "text": "عزيز",
+    "frequency": 9},
+  {
+    "text": "إصلاح",
+    "frequency": 10},
+  {
+    "text": "استنفاذ",
+    "frequency": 1},
+  {
+    "text": "تأكيد",
+    "frequency": 6},
+  {
+    "text": "رسمي",
+    "frequency": 3},
+  {
+    "text": "متحد",
+    "frequency": 10},
+  {
+    "text": "فقيد",
+    "frequency": 10},
+  {
+    "text": "بريطاني",
+    "frequency": 2},
+  {
+    "text": "دخل",
+    "frequency": 6},
+  {
+    "text": "قيادة",
+    "frequency": 6},
+  {
+    "text": "انتهاك",
+    "frequency": 7},
+  {
+    "text": "بارز",
+    "frequency": 4},
+  {
+    "text": "تضامني",
+    "frequency": 2},
+  {
+    "text": "تحسيسية",
+    "frequency": 2},
+  {
+    "text": "خلق",
+    "frequency": 10},
+  {
+    "text": "درع",
+    "frequency": 1},
+  {
+    "text": "عدة",
+    "frequency": 6},
+  {
+    "text": "مقر",
+    "frequency": 10},
+  {
+    "text": "تحرير",
+    "frequency": 5},
+  {
+    "text": "طرف",
+    "frequency": 20},
+  {
+    "text": "ميدي",
+    "frequency": 5},
+  {
+    "text": "ذهاب",
+    "frequency": 2},
+  {
+    "text": "إعلام",
+    "frequency": 4},
+  {
+    "text": "استعان",
+    "frequency": 4},
+  {
+    "text": "تربوي",
+    "frequency": 8},
+  {
+    "text": "تكنولوجا",
+    "frequency": 2},
+  {
+    "text": "إقامة",
+    "frequency": 1},
+  {
+    "text": "منهجي",
+    "frequency": 3},
+  {
+    "text": "خطة",
+    "frequency": 5},
+  {
+    "text": "محل",
+    "frequency": 3},
+  {
+    "text": "نمط",
+    "frequency": 13},
+  {
+    "text": "استخدم",
+    "frequency": 4},
+  {
+    "text": "توفيق",
+    "frequency": 8},
+  {
+    "text": "اتجاه",
+    "frequency": 4},
+  {
+    "text": "كينونة",
+    "frequency": 1},
+  {
+    "text": "فوز",
+    "frequency": 4},
+  {
+    "text": "مجتمع",
+    "frequency": 13},
+  {
+    "text": "ثقة",
+    "frequency": 1},
+  {
+    "text": "مركز",
+    "frequency": 23},
+  {
+    "text": "حوار",
+    "frequency": 4},
+  {
+    "text": "دورة",
+    "frequency": 6},
+  {
+    "text": "مطلق",
+    "frequency": 2},
+  {
+    "text": "تعزية",
+    "frequency": 13},
+  {
+    "text": "روبنسون",
+    "frequency": 1},
+  {
+    "text": "معنوي",
+    "frequency": 1},
+  {
+    "text": "سائد",
+    "frequency": 2},
+  {
+    "text": "مفصول",
+    "frequency": 2},
+  {
+    "text": "معالجة",
+    "frequency": 13},
+  {
+    "text": "قاد",
+    "frequency": 9},
+  {
+    "text": "وازن",
+    "frequency": 5},
+  {
+    "text": "رؤية",
+    "frequency": 5},
+  {
+    "text": "فرح",
+    "frequency": 2},
+  {
+    "text": "أتى",
+    "frequency": 9},
+  {
+    "text": "شجع",
+    "frequency": 3},
+  {
+    "text": "جانب",
+    "frequency": 23},
+  {
+    "text": "وسيلة",
+    "frequency": 6},
+  {
+    "text": "زيادة",
+    "frequency": 2},
+  {
+    "text": "نشأ",
+    "frequency": 2},
+  {
+    "text": "مواطن",
+    "frequency": 5},
+  {
+    "text": "تمنى",
+    "frequency": 1},
+  {
+    "text": "محبوب",
+    "frequency": 1},
+  {
+    "text": "نوى",
+    "frequency": 4},
+  {
+    "text": "نقطة",
+    "frequency": 3},
+  {
+    "text": "حفلة",
+    "frequency": 4},
+  {
+    "text": "مسيرة",
+    "frequency": 2},
+  {
+    "text": "تمثيل",
+    "frequency": 6},
+  {
+    "text": "تاريخي",
+    "frequency": 4},
+  {
+    "text": "طلب",
+    "frequency": 3},
+  {
+    "text": "قرارفي",
+    "frequency": 2},
+  {
+    "text": "معلوم",
+    "frequency": 1},
+  {
+    "text": "صوغ",
+    "frequency": 2},
+  {
+    "text": "صاعد",
+    "frequency": 2},
+  {
+    "text": "موضوع",
+    "frequency": 14},
+  {
+    "text": "مشغل",
+    "frequency": 6},
+  {
+    "text": "قرآني",
+    "frequency": 3},
+  {
+    "text": "بدء",
+    "frequency": 2},
+  {
+    "text": "ترحيب",
+    "frequency": 5},
+  {
+    "text": "رد",
+    "frequency": 3},
+  {
+    "text": "لجنة",
+    "frequency": 9},
+  {
+    "text": "رغم",
+    "frequency": 10},
+  {
+    "text": "شيكاغو",
+    "frequency": 1},
+  {
+    "text": "ليبيا",
+    "frequency": 7},
+  {
+    "text": "كثير",
+    "frequency": 4},
+  {
+    "text": "تقرير",
+    "frequency": 6},
+  {
+    "text": "تبنى",
+    "frequency": 2},
+  {
+    "text": "عقد",
+    "frequency": 13},
+  {
+    "text": "منصوب",
+    "frequency": 1},
+  {
+    "text": "استكشف",
+    "frequency": 1},
+  {
+    "text": "مخاطب",
+    "frequency": 2},
+  {
+    "text": "بدا",
+    "frequency": 3},
+  {
+    "text": "تصور",
+    "frequency": 7},
+  {
+    "text": "وكالة",
+    "frequency": 3},
+  {
+    "text": "مركزي",
+    "frequency": 1},
+  {
+    "text": "تشاركية",
+    "frequency": 3},
+  {
+    "text": "أراد",
+    "frequency": 5},
+  {
+    "text": "اكراه",
+    "frequency": 1},
+  {
+    "text": "مفكر",
+    "frequency": 9},
+  {
+    "text": "صناعي",
+    "frequency": 1},
+  {
+    "text": "عزلة",
+    "frequency": 1},
+  {
+    "text": "حاضر",
+    "frequency": 4},
+  {
+    "text": "تعزيز",
+    "frequency": 40},
+  {
+    "text": "كشف",
+    "frequency": 3},
+  {
+    "text": "أولوية",
+    "frequency": 8},
+  {
+    "text": "التقاء",
+    "frequency": 4},
+  {
+    "text": "سعادة",
+    "frequency": 6},
+  {
+    "text": "مصلحة",
+    "frequency": 2},
+  {
+    "text": "إمكان",
+    "frequency": 9},
+  {
+    "text": "فردي",
+    "frequency": 5},
+  {
+    "text": "مبرز",
+    "frequency": 5},
+  {
+    "text": "عادى",
+    "frequency": 5},
+  {
+    "text": "بشر",
+    "frequency": 2},
+  {
+    "text": "أدب",
+    "frequency": 4},
+  {
+    "text": "هيأ",
+    "frequency": 1},
+  {
+    "text": "عدد",
+    "frequency": 3},
+  {
+    "text": "أمسك",
+    "frequency": 1},
+  {
+    "text": "ظاهرة",
+    "frequency": 6},
+  {
+    "text": "مالك",
+    "frequency": 2},
+  {
+    "text": "احتقار",
+    "frequency": 1},
+  {
+    "text": "توسيع",
+    "frequency": 4},
+  {
+    "text": "تفعيل",
+    "frequency": 7},
+  {
+    "text": "مشترك",
+    "frequency": 6},
+  {
+    "text": "حدس",
+    "frequency": 2},
+  {
+    "text": "فتح",
+    "frequency": 6},
+  {
+    "text": "أمة",
+    "frequency": 8},
+  {
+    "text": "حجاب",
+    "frequency": 9},
+  {
+    "text": "حفاظ",
+    "frequency": 2},
+  {
+    "text": "سعيد",
+    "frequency": 5},
+  {
+    "text": "دكتوراة",
+    "frequency": 11},
+  {
+    "text": "دينامي",
+    "frequency": 7},
+  {
+    "text": "ناشئ",
+    "frequency": 3},
+  {
+    "text": "نيل",
+    "frequency": 5},
+  {
+    "text": "أفق",
+    "frequency": 8},
+  {
+    "text": "انكب",
+    "frequency": 4},
+  {
+    "text": "ميراوي",
+    "frequency": 11},
+  {
+    "text": "وفق",
+    "frequency": 8},
+  {
+    "text": "مزود",
+    "frequency": 1},
+  {
+    "text": "أصفر",
+    "frequency": 3},
+  {
+    "text": "آثاري",
+    "frequency": 2},
+  {
+    "text": "صيدلة",
+    "frequency": 10},
+  {
+    "text": "ذكي",
+    "frequency": 2},
+  {
+    "text": "مادي",
+    "frequency": 8},
+  {
+    "text": "مدير",
+    "frequency": 10},
+  {
+    "text": "هجري",
+    "frequency": 4},
+  {
+    "text": "جد",
+    "frequency": 14},
+  {
+    "text": "قنصل",
+    "frequency": 6},
+  {
+    "text": "قرب",
+    "frequency": 6},
+  {
+    "text": "تام",
+    "frequency": 2},
+  {
+    "text": "دم",
+    "frequency": 3},
+  {
+    "text": "بذل",
+    "frequency": 7},
+  {
+    "text": "حجة",
+    "frequency": 1},
+  {
+    "text": "اكاديمي",
+    "frequency": 2},
+  {
+    "text": "زينب",
+    "frequency": 3},
+  {
+    "text": "سجن",
+    "frequency": 1},
+  {
+    "text": "تفاعلي",
+    "frequency": 2},
+  {
+    "text": "صالح",
+    "frequency": 8},
+  {
+    "text": "عيادي",
+    "frequency": 5},
+  {
+    "text": "استقبال",
+    "frequency": 7},
+  {
+    "text": "ساري",
+    "frequency": 3},
+  {
+    "text": "منصب",
+    "frequency": 11},
+  {
+    "text": "صفة",
+    "frequency": 6},
+  {
+    "text": "كرس",
+    "frequency": 5},
+  {
+    "text": "احتياج",
+    "frequency": 2},
+  {
+    "text": "مشاركة",
+    "frequency": 14},
+  {
+    "text": "يكسنه",
+    "frequency": 4},
+  {
+    "text": "شتى",
+    "frequency": 7},
+  {
+    "text": "زهاء",
+    "frequency": 1},
+  {
+    "text": "حظ",
+    "frequency": 4},
+  {
+    "text": "صرح",
+    "frequency": 4},
+  {
+    "text": "اعتقد",
+    "frequency": 6},
+  {
+    "text": "فقدان",
+    "frequency": 3},
+  {
+    "text": "محاسبة",
+    "frequency": 2},
+  {
+    "text": "شارل",
+    "frequency": 1},
+  {
+    "text": "أوصى",
+    "frequency": 2},
+  {
+    "text": "عزز",
+    "frequency": 2},
+  {
+    "text": "تجريب",
+    "frequency": 1},
+  {
+    "text": "حافل",
+    "frequency": 5},
+  {
+    "text": "شريك",
+    "frequency": 12},
+  {
+    "text": "توج",
+    "frequency": 3},
+  {
+    "text": "جابري",
+    "frequency": 2},
+  {
+    "text": "احتاج",
+    "frequency": 4},
+  {
+    "text": "توصية",
+    "frequency": 1},
+  {
+    "text": "سمح",
+    "frequency": 1},
+  {
+    "text": "سبب",
+    "frequency": 2},
+  {
+    "text": "ماهية",
+    "frequency": 2},
+  {
+    "text": "قانوني",
+    "frequency": 12},
+  {
+    "text": "عاش",
+    "frequency": 8},
+  {
+    "text": "إسلامي",
+    "frequency": 5},
+  {
+    "text": "بوسكوك",
+    "frequency": 1},
+  {
+    "text": "عبوضي",
+    "frequency": 1},
+  {
+    "text": "ناتج",
+    "frequency": 2},
+  {
+    "text": "موعد",
+    "frequency": 2},
+  {
+    "text": "أصدق",
+    "frequency": 6},
+  {
+    "text": "غالب",
+    "frequency": 4},
+  {
+    "text": "ضربة",
+    "frequency": 3},
+  {
+    "text": "جمعية",
+    "frequency": 12},
+  {
+    "text": "كريم",
+    "frequency": 2},
+  {
+    "text": "رأسمال",
+    "frequency": 8},
+  {
+    "text": "نفسي",
+    "frequency": 28},
+  {
+    "text": "نجاة",
+    "frequency": 2},
+  {
+    "text": "ضيافة",
+    "frequency": 4},
+  {
+    "text": "تعبير",
+    "frequency": 6},
+  {
+    "text": "امبارك",
+    "frequency": 3},
+  {
+    "text": "دلالة",
+    "frequency": 2},
+  {
+    "text": "دكتور",
+    "frequency": 21},
+  {
+    "text": "إعطاء",
+    "frequency": 1},
+  {
+    "text": "تهيئة",
+    "frequency": 9},
+  {
+    "text": "متعلق",
+    "frequency": 19},
+  {
+    "text": "كروي",
+    "frequency": 3},
+  {
+    "text": "تتالق",
+    "frequency": 1},
+  {
+    "text": "فن",
+    "frequency": 8},
+  {
+    "text": "تلقيح",
+    "frequency": 2},
+  {
+    "text": "مكافحة",
+    "frequency": 1},
+  {
+    "text": "نونبر",
+    "frequency": 7},
+  {
+    "text": "أكاديمي",
+    "frequency": 4},
+  {
+    "text": "مانع",
+    "frequency": 1},
+  {
+    "text": "داوى",
+    "frequency": 1},
+  {
+    "text": "أقام",
+    "frequency": 3},
+  {
+    "text": "خاضع",
+    "frequency": 1},
+  {
+    "text": "عطاء",
+    "frequency": 5},
+  {
+    "text": "غرفة",
+    "frequency": 7},
+  {
+    "text": "إدماج",
+    "frequency": 7},
+  {
+    "text": "إطلاق",
+    "frequency": 10},
+  {
+    "text": "محجوب",
+    "frequency": 4},
+  {
+    "text": "استند",
+    "frequency": 1},
+  {
+    "text": "مرجع",
+    "frequency": 2},
+  {
+    "text": "ثمن",
+    "frequency": 4},
+  {
+    "text": "بشرة",
+    "frequency": 2},
+  {
+    "text": "حدث",
+    "frequency": 3},
+  {
+    "text": "زوج",
+    "frequency": 1},
+  {
+    "text": "جنسية",
+    "frequency": 2},
+  {
+    "text": "ضد",
+    "frequency": 4},
+  {
+    "text": "إعادة",
+    "frequency": 9},
+  {
+    "text": "فنومنولوجي",
+    "frequency": 3},
+  {
+    "text": "معيش",
+    "frequency": 2},
+  {
+    "text": "نبي",
+    "frequency": 6},
+  {
+    "text": "فاجأ",
+    "frequency": 1},
+  {
+    "text": "شطر",
+    "frequency": 2},
+  {
+    "text": "نسوي",
+    "frequency": 2},
+  {
+    "text": "والي",
+    "frequency": 9},
+  {
+    "text": "أطروحة",
+    "frequency": 2},
+  {
+    "text": "ننعتق",
+    "frequency": 1},
+  {
+    "text": "اسم",
+    "frequency": 6},
+  {
+    "text": "شق",
+    "frequency": 7},
+  {
+    "text": "بوابة",
+    "frequency": 2},
+  {
+    "text": "ساو",
+    "frequency": 2},
+  {
+    "text": "رهين",
+    "frequency": 2},
+  {
+    "text": "محاضرة",
+    "frequency": 4},
+  {
+    "text": "شهر",
+    "frequency": 13},
+  {
+    "text": "سكن",
+    "frequency": 5},
+  {
+    "text": "مولى",
+    "frequency": 7},
+  {
+    "text": "لائق",
+    "frequency": 2},
+  {
+    "text": "يأس",
+    "frequency": 1},
+  {
+    "text": "علامة",
+    "frequency": 1},
+  {
+    "text": "الا",
+    "frequency": 1},
+  {
+    "text": "جيولوجي",
+    "frequency": 2},
+  {
+    "text": "تحتي",
+    "frequency": 6},
+  {
+    "text": "موسم",
+    "frequency": 7},
+  {
+    "text": "همجي",
+    "frequency": 8},
+  {
+    "text": "مقارنة",
+    "frequency": 1},
+  {
+    "text": "ويلارد",
+    "frequency": 1},
+  {
+    "text": "إنترنت",
+    "frequency": 2},
+  {
+    "text": "ألهم",
+    "frequency": 9},
+  {
+    "text": "تحقق",
+    "frequency": 4},
+  {
+    "text": "أطلق",
+    "frequency": 7},
+  {
+    "text": "أندلسي",
+    "frequency": 1},
+  {
+    "text": "مغاير",
+    "frequency": 2},
+  {
+    "text": "علي",
+    "frequency": 8},
+  {
+    "text": "مؤتمر",
+    "frequency": 6},
+  {
+    "text": "عرقي",
+    "frequency": 1},
+  {
+    "text": "شفاء",
+    "frequency": 10},
+  {
+    "text": "وجه",
+    "frequency": 10},
+  {
+    "text": "هائل",
+    "frequency": 2},
+  {
+    "text": "موصول",
+    "frequency": 3},
+  {
+    "text": "قطب",
+    "frequency": 2},
+  {
+    "text": "غني",
+    "frequency": 1},
+  {
+    "text": "احتفى",
+    "frequency": 3},
+  {
+    "text": "كشوتي",
+    "frequency": 2},
+  {
+    "text": "مكثف",
+    "frequency": 1},
+  {
+    "text": "محطة",
+    "frequency": 5},
+  {
+    "text": "عودة",
+    "frequency": 1},
+  {
+    "text": "تالي",
+    "frequency": 6},
+  {
+    "text": "معيار",
+    "frequency": 3},
+  {
+    "text": "اورام",
+    "frequency": 1},
+  {
+    "text": "مجلة",
+    "frequency": 1},
+  {
+    "text": "إنتاجية",
+    "frequency": 2},
+  {
+    "text": "هادف",
+    "frequency": 2},
+  {
+    "text": "منصة",
+    "frequency": 5},
+  {
+    "text": "مزمع",
+    "frequency": 1},
+  {
+    "text": "أولى",
+    "frequency": 4},
+  {
+    "text": "مفتش",
+    "frequency": 1},
+  {
+    "text": "نضو",
+    "frequency": 1},
+  {
+    "text": "إليوت",
+    "frequency": 2},
+  {
+    "text": "راضي",
+    "frequency": 2},
+  {
+    "text": "تفلسف",
+    "frequency": 10},
+  {
+    "text": "طببي",
+    "frequency": 1},
+  {
+    "text": "سلوان",
+    "frequency": 7},
+  {
+    "text": "ميلادي",
+    "frequency": 2},
+  {
+    "text": "جمهور",
+    "frequency": 5},
+  {
+    "text": "طب",
+    "frequency": 9},
+  {
+    "text": "مؤشر",
+    "frequency": 4},
+  {
+    "text": "منقح",
+    "frequency": 3},
+  {
+    "text": "مساواة",
+    "frequency": 3},
+  {
+    "text": "سليم",
+    "frequency": 5},
+  {
+    "text": "إغريقي",
+    "frequency": 2},
+  {
+    "text": "وسادة",
+    "frequency": 1},
+  {
+    "text": "هوكنج",
+    "frequency": 1},
+  {
+    "text": "خيري",
+    "frequency": 2},
+  {
+    "text": "زيت",
+    "frequency": 2},
+  {
+    "text": "أكيد",
+    "frequency": 4},
+  {
+    "text": "نحت",
+    "frequency": 1},
+  {
+    "text": "ارتقاء",
+    "frequency": 5},
+  {
+    "text": "أمين",
+    "frequency": 1},
+  {
+    "text": "أهم",
+    "frequency": 4},
+  {
+    "text": "أوراش",
+    "frequency": 1},
+  {
+    "text": "داء",
+    "frequency": 1},
+  {
+    "text": "نباتي",
+    "frequency": 6},
+  {
+    "text": "توسل",
+    "frequency": 1},
+  {
+    "text": "سيف",
+    "frequency": 1},
+  {
+    "text": "ليزيليت",
+    "frequency": 1},
+  {
+    "text": "أتجاوز",
+    "frequency": 2},
+  {
+    "text": "مواكب",
+    "frequency": 6},
+  {
+    "text": "اعلام",
+    "frequency": 2},
+  {
+    "text": "رفاع",
+    "frequency": 1},
+  {
+    "text": "فعلي",
+    "frequency": 2},
+  {
+    "text": "فرصة",
+    "frequency": 13},
+  {
+    "text": "جاهد",
+    "frequency": 2},
+  {
+    "text": "صقل",
+    "frequency": 2},
+  {
+    "text": "عتبة",
+    "frequency": 2},
+  {
+    "text": "شهرة",
+    "frequency": 2},
+  {
+    "text": "تكاثر",
+    "frequency": 2},
+  {
+    "text": "معاصر",
+    "frequency": 6},
+  {
+    "text": "شاف",
+    "frequency": 1},
+  {
+    "text": "ليبي",
+    "frequency": 5},
+  {
+    "text": "افريقي",
+    "frequency": 4},
+  {
+    "text": "اخياط",
+    "frequency": 2},
+  {
+    "text": "استمد",
+    "frequency": 1},
+  {
+    "text": "أشبه",
+    "frequency": 3},
+  {
+    "text": "تأهيل",
+    "frequency": 8},
+  {
+    "text": "متبادل",
+    "frequency": 3},
+  {
+    "text": "ممثل",
+    "frequency": 13},
+  {
+    "text": "موظف",
+    "frequency": 5},
+  {
+    "text": "رحم",
+    "frequency": 4},
+  {
+    "text": "اركيولوجي",
+    "frequency": 2},
+  {
+    "text": "استكشاف",
+    "frequency": 5},
+  {
+    "text": "مأوى",
+    "frequency": 1},
+  {
+    "text": "تنحى",
+    "frequency": 2},
+  {
+    "text": "فتئ",
+    "frequency": 2},
+  {
+    "text": "تقني",
+    "frequency": 8},
+  {
+    "text": "حلم",
+    "frequency": 1},
+  {
+    "text": "إيديولوجي",
+    "frequency": 2},
+  {
+    "text": "أعلى",
+    "frequency": 13},
+  {
+    "text": "مقدر",
+    "frequency": 1},
+  {
+    "text": "احتضن",
+    "frequency": 4},
+  {
+    "text": "انسجام",
+    "frequency": 5},
+  {
+    "text": "سيادة",
+    "frequency": 3},
+  {
+    "text": "شعور",
+    "frequency": 2},
+  {
+    "text": "باب",
+    "frequency": 4},
+  {
+    "text": "إسهام",
+    "frequency": 7},
+  {
+    "text": "استثمر",
+    "frequency": 2},
+  {
+    "text": "حل",
+    "frequency": 6},
+  {
+    "text": "خصوصي",
+    "frequency": 2},
+  {
+    "text": "طوال",
+    "frequency": 1},
+  {
+    "text": "عنوان",
+    "frequency": 5},
+  {
+    "text": "مليون",
+    "frequency": 5},
+  {
+    "text": "تعاطف",
+    "frequency": 2},
+  {
+    "text": "وقت",
+    "frequency": 10},
+  {
+    "text": "امتحان",
+    "frequency": 3},
+  {
+    "text": "تلميذ",
+    "frequency": 8},
+  {
+    "text": "كيمياء",
+    "frequency": 3},
+  {
+    "text": "ناضور",
+    "frequency": 3},
+  {
+    "text": "علاءالدين",
+    "frequency": 2},
+  {
+    "text": "بروفسور",
+    "frequency": 3},
+  {
+    "text": "جودة",
+    "frequency": 14},
+  {
+    "text": "متلازمة",
+    "frequency": 1},
+  {
+    "text": "عبدالرحمن",
+    "frequency": 3},
+  {
+    "text": "اخوان",
+    "frequency": 2},
+  {
+    "text": "زائر",
+    "frequency": 3},
+  {
+    "text": "اتحاد",
+    "frequency": 7},
+  {
+    "text": "اتخاذ",
+    "frequency": 2},
+  {
+    "text": "سيارة",
+    "frequency": 3},
+  {
+    "text": "تبين",
+    "frequency": 1},
+  {
+    "text": "غضن",
+    "frequency": 1},
+  {
+    "text": "متدخل",
+    "frequency": 5},
+  {
+    "text": "استفاد",
+    "frequency": 3},
+  {
+    "text": "إشكالي",
+    "frequency": 2},
+  {
+    "text": "طاليس",
+    "frequency": 3},
+  {
+    "text": "رائد",
+    "frequency": 3},
+  {
+    "text": "جوهر",
+    "frequency": 3},
+  {
+    "text": "ستيفن",
+    "frequency": 2},
+  {
+    "text": "إحساس",
+    "frequency": 2},
+  {
+    "text": "موازي",
+    "frequency": 2},
+  {
+    "text": "مقترح",
+    "frequency": 5},
+  {
+    "text": "إستراتيجي",
+    "frequency": 4},
+  {
+    "text": "اقترح",
+    "frequency": 1},
+  {
+    "text": "أحر",
+    "frequency": 8},
+  {
+    "text": "أقصى",
+    "frequency": 6},
+  {
+    "text": "اساتدة",
+    "frequency": 1},
+  {
+    "text": "منتدى",
+    "frequency": 5},
+  {
+    "text": "عائق",
+    "frequency": 3},
+  {
+    "text": "خبرة",
+    "frequency": 5},
+  {
+    "text": "معركة",
+    "frequency": 1},
+  {
+    "text": "شراب",
+    "frequency": 3},
+  {
+    "text": "عمالة",
+    "frequency": 8},
+  {
+    "text": "سند",
+    "frequency": 1},
+  {
+    "text": "تعسف",
+    "frequency": 2},
+  {
+    "text": "اغناء",
+    "frequency": 2},
+  {
+    "text": "إرث",
+    "frequency": 2},
+  {
+    "text": "تمثل",
+    "frequency": 3},
+  {
+    "text": "أكاديمية",
+    "frequency": 5},
+  {
+    "text": "وباء",
+    "frequency": 2},
+  {
+    "text": "قوة",
+    "frequency": 2},
+  {
+    "text": "أشار",
+    "frequency": 4},
+  {
+    "text": "شيء",
+    "frequency": 10},
+  {
+    "text": "أجنبي",
+    "frequency": 3},
+  {
+    "text": "زال",
+    "frequency": 3},
+  {
+    "text": "سميع",
+    "frequency": 6},
+  {
+    "text": "مولوي",
+    "frequency": 1},
+  {
+    "text": "مقصد",
+    "frequency": 2},
+  {
+    "text": "أثر",
+    "frequency": 4},
+  {
+    "text": "هدا",
+    "frequency": 1},
+  {
+    "text": "شريحة",
+    "frequency": 2},
+  {
+    "text": "تنويه",
+    "frequency": 2},
+  {
+    "text": "عميق",
+    "frequency": 4},
+  {
+    "text": "ليبيدو",
+    "frequency": 1},
+  {
+    "text": "أبيقور",
+    "frequency": 1},
+  {
+    "text": "عمان",
+    "frequency": 2},
+  {
+    "text": "قدير",
+    "frequency": 2},
+  {
+    "text": "حسن",
+    "frequency": 5},
+  {
+    "text": "إتفاقي",
+    "frequency": 4},
+  {
+    "text": "حساب",
+    "frequency": 2},
+  {
+    "text": "أطر",
+    "frequency": 1},
+  {
+    "text": "بساطة",
+    "frequency": 2},
+  {
+    "text": "استثار",
+    "frequency": 4},
+  {
+    "text": "تثمين",
+    "frequency": 9},
+  {
+    "text": "حوت",
+    "frequency": 1},
+  {
+    "text": "والد",
+    "frequency": 6},
+  {
+    "text": "راجع",
+    "frequency": 4},
+  {
+    "text": "بيولوجيا",
+    "frequency": 1},
+  {
+    "text": "حكم",
+    "frequency": 3},
+  {
+    "text": "ترشيد",
+    "frequency": 1},
+  {
+    "text": "مباشرة",
+    "frequency": 2},
+  {
+    "text": "مناسبة",
+    "frequency": 7},
+  {
+    "text": "يونسكو",
+    "frequency": 3},
+  {
+    "text": "جليل",
+    "frequency": 1},
+  {
+    "text": "لامتناهي",
+    "frequency": 3},
+  {
+    "text": "غرناطة",
+    "frequency": 6},
+  {
+    "text": "ملكي",
+    "frequency": 1},
+  {
+    "text": "تنفيذ",
+    "frequency": 1},
+  {
+    "text": "ساعة",
+    "frequency": 1},
+  {
+    "text": "صحافي",
+    "frequency": 2},
+  {
+    "text": "إستراتيجية",
+    "frequency": 5},
+  {
+    "text": "تيه",
+    "frequency": 3},
+  {
+    "text": "شأن",
+    "frequency": 9},
+  {
+    "text": "أرسطو",
+    "frequency": 7},
+  {
+    "text": "محادثة",
+    "frequency": 3},
+  {
+    "text": "منفتح",
+    "frequency": 4},
+  {
+    "text": "استخدام",
+    "frequency": 4},
+  {
+    "text": "تسليم",
+    "frequency": 1},
+  {
+    "text": "دار",
+    "frequency": 9},
+  {
+    "text": "خلاصة",
+    "frequency": 1},
+  {
+    "text": "شعب",
+    "frequency": 6},
+  {
+    "text": "حقل",
+    "frequency": 4},
+  {
+    "text": "نقاش",
+    "frequency": 8},
+  {
+    "text": "تعايش",
+    "frequency": 3},
+  {
+    "text": "تكويني",
+    "frequency": 3},
+  {
+    "text": "دائم",
+    "frequency": 7},
+  {
+    "text": "طيف",
+    "frequency": 2},
+  {
+    "text": "افتتاح",
+    "frequency": 9},
+  {
+    "text": "منطق",
+    "frequency": 2},
+  {
+    "text": "عصب",
+    "frequency": 5},
+  {
+    "text": "أتون",
+    "frequency": 2},
+  {
+    "text": "غادمر",
+    "frequency": 3},
+  {
+    "text": "إختيار",
+    "frequency": 2},
+  {
+    "text": "إستوديو",
+    "frequency": 1},
+  {
+    "text": "تبعية",
+    "frequency": 1},
+  {
+    "text": "جزر",
+    "frequency": 3},
+  {
+    "text": "اضطر",
+    "frequency": 5},
+  {
+    "text": "مقدمة",
+    "frequency": 3},
+  {
+    "text": "جريمة",
+    "frequency": 4},
+  {
+    "text": "ضروري",
+    "frequency": 5},
+  {
+    "text": "مستقل",
+    "frequency": 5},
+  {
+    "text": "نشر",
+    "frequency": 6},
+  {
+    "text": "طبيعي",
+    "frequency": 4},
+  {
+    "text": "ديني",
+    "frequency": 4},
+  {
+    "text": "داخلي",
+    "frequency": 8},
+  {
+    "text": "لامحدود",
+    "frequency": 2},
+  {
+    "text": "علاجي",
+    "frequency": 1},
+  {
+    "text": "مينيسي",
+    "frequency": 3},
+  {
+    "text": "رفاهي",
+    "frequency": 2},
+  {
+    "text": "توفير",
+    "frequency": 6},
+  {
+    "text": "استجابة",
+    "frequency": 1},
+  {
+    "text": "ارتكز",
+    "frequency": 3},
+  {
+    "text": "أرمني",
+    "frequency": 1},
+  {
+    "text": "مرور",
+    "frequency": 2},
+  {
+    "text": "رئيسي",
+    "frequency": 5},
+  {
+    "text": "مكتبة",
+    "frequency": 4},
+  {
+    "text": "حياتي",
+    "frequency": 4},
+  {
+    "text": "مباراة",
+    "frequency": 3},
+  {
+    "text": "تدبر",
+    "frequency": 4},
+  {
+    "text": "أشرف",
+    "frequency": 2},
+  {
+    "text": "نسائي",
+    "frequency": 2},
+  {
+    "text": "إحياء",
+    "frequency": 4},
+  {
+    "text": "مخيلة",
+    "frequency": 2},
+  {
+    "text": "لودفيغ",
+    "frequency": 4},
+  {
+    "text": "توينبي",
+    "frequency": 4},
+  {
+    "text": "ليلة",
+    "frequency": 3},
+  {
+    "text": "آية",
+    "frequency": 2},
+  {
+    "text": "تحدي",
+    "frequency": 5},
+  {
+    "text": "وبكفاءتهن",
+    "frequency": 1},
+  {
+    "text": "بؤس",
+    "frequency": 3},
+  {
+    "text": "تزايد",
+    "frequency": 4},
+  {
+    "text": "أشاد",
+    "frequency": 3},
+  {
+    "text": "تعلم",
+    "frequency": 1},
+  {
+    "text": "قتل",
+    "frequency": 2},
+  {
+    "text": "قاموس",
+    "frequency": 2},
+  {
+    "text": "نطاق",
+    "frequency": 5},
+  {
+    "text": "رمزي",
+    "frequency": 3},
+  {
+    "text": "تيسير",
+    "frequency": 5},
+  {
+    "text": "معادي",
+    "frequency": 3},
+  {
+    "text": "إثبات",
+    "frequency": 6},
+  {
+    "text": "شفى",
+    "frequency": 4},
+  {
+    "text": "كتلة",
+    "frequency": 6},
+  {
+    "text": "مريض",
+    "frequency": 6},
+  {
+    "text": "انفتاح",
+    "frequency": 8},
+  {
+    "text": "إيواء",
+    "frequency": 3},
+  {
+    "text": "طالبةزينب",
+    "frequency": 1},
+  {
+    "text": "تحصيل",
+    "frequency": 1},
+  {
+    "text": "دينامية",
+    "frequency": 3},
+  {
+    "text": "حظي",
+    "frequency": 2},
+  {
+    "text": "سطر",
+    "frequency": 2},
+  {
+    "text": "نظر",
+    "frequency": 5},
+  {
+    "text": "سر",
+    "frequency": 4},
+  {
+    "text": "تهافت",
+    "frequency": 2},
+  {
+    "text": "وعى",
+    "frequency": 3},
+  {
+    "text": "شعار",
+    "frequency": 5},
+  {
+    "text": "لغة",
+    "frequency": 5},
+  {
+    "text": "فالس",
+    "frequency": 2},
+  {
+    "text": "تكوين",
+    "frequency": 18},
+  {
+    "text": "عالج",
+    "frequency": 1},
+  {
+    "text": "توحيد",
+    "frequency": 1},
+  {
+    "text": "تقليص",
+    "frequency": 2},
+  {
+    "text": "انحطاط",
+    "frequency": 1},
+  {
+    "text": "أضاف",
+    "frequency": 3},
+  {
+    "text": "فريد",
+    "frequency": 3},
+  {
+    "text": "تداول",
+    "frequency": 1},
+  {
+    "text": "إقلاع",
+    "frequency": 2},
+  {
+    "text": "سابق",
+    "frequency": 4},
+  {
+    "text": "احتلال",
+    "frequency": 3},
+  {
+    "text": "طول",
+    "frequency": 4},
+  {
+    "text": "لبث",
+    "frequency": 1},
+  {
+    "text": "كاسيرر",
+    "frequency": 2},
+  {
+    "text": "صدد",
+    "frequency": 3},
+  {
+    "text": "تحسين",
+    "frequency": 3},
+  {
+    "text": "ضرورة",
+    "frequency": 10},
+  {
+    "text": "استمر",
+    "frequency": 8},
+  {
+    "text": "نظم",
+    "frequency": 11},
+  {
+    "text": "حادث",
+    "frequency": 2},
+  {
+    "text": "فكرة",
+    "frequency": 2},
+  {
+    "text": "أليم",
+    "frequency": 3},
+  {
+    "text": "سواعد",
+    "frequency": 4},
+  {
+    "text": "عتق",
+    "frequency": 1},
+  {
+    "text": "معلوماتي",
+    "frequency": 4},
+  {
+    "text": "نشط",
+    "frequency": 4},
+  {
+    "text": "اجتهاد",
+    "frequency": 5},
+  {
+    "text": "تقويم",
+    "frequency": 3},
+  {
+    "text": "قتاش",
+    "frequency": 2},
+  {
+    "text": "توصل",
+    "frequency": 3},
+  {
+    "text": "مارتشيكا",
+    "frequency": 4},
+  {
+    "text": "حمزة",
+    "frequency": 2},
+  {
+    "text": "أساس",
+    "frequency": 7},
+  {
+    "text": "فتاة",
+    "frequency": 1},
+  {
+    "text": "طنجة",
+    "frequency": 4},
+  {
+    "text": "كتابة",
+    "frequency": 2},
+  {
+    "text": "حاد",
+    "frequency": 3},
+  {
+    "text": "مثقف",
+    "frequency": 2},
+  {
+    "text": "مكتب",
+    "frequency": 5},
+  {
+    "text": "تضامن",
+    "frequency": 2},
+  {
+    "text": "تحليلي",
+    "frequency": 7},
+  {
+    "text": "ملل",
+    "frequency": 2},
+  {
+    "text": "عصبة",
+    "frequency": 10},
+  {
+    "text": "خطابي",
+    "frequency": 1},
+  {
+    "text": "كينون",
+    "frequency": 2},
+  {
+    "text": "تأثير",
+    "frequency": 4},
+  {
+    "text": "منشئ",
+    "frequency": 2},
+  {
+    "text": "قلعة",
+    "frequency": 1},
+  {
+    "text": "نسيج",
+    "frequency": 1},
+  {
+    "text": "قصد",
+    "frequency": 5},
+  {
+    "text": "متقدم",
+    "frequency": 4},
+  {
+    "text": "استجاب",
+    "frequency": 2},
+  {
+    "text": "توليد",
+    "frequency": 2},
+  {
+    "text": "مندمج",
+    "frequency": 4},
+  {
+    "text": "قماش",
+    "frequency": 2},
+  {
+    "text": "جمهورية1",
+    "frequency": 2},
+  {
+    "text": "شبكة",
+    "frequency": 1},
+  {
+    "text": "إسبانيا",
+    "frequency": 2},
+  {
+    "text": "ترافع",
+    "frequency": 6},
+  {
+    "text": "كفاءة",
+    "frequency": 4},
+  {
+    "text": "موقف",
+    "frequency": 2},
+  {
+    "text": "اج",
+    "frequency": 2},
+  {
+    "text": "تعارض",
+    "frequency": 1},
+  {
+    "text": "مستقر",
+    "frequency": 1},
+  {
+    "text": "كوني",
+    "frequency": 2},
+  {
+    "text": "واجه",
+    "frequency": 2},
+  {
+    "text": "تبدا",
+    "frequency": 1},
+  {
+    "text": "ابركاني",
+    "frequency": 5},
+  {
+    "text": "قمع",
+    "frequency": 1},
+  {
+    "text": "غرب",
+    "frequency": 2},
+  {
+    "text": "رضي",
+    "frequency": 1},
+  {
+    "text": "استحضر",
+    "frequency": 2},
+  {
+    "text": "نقش",
+    "frequency": 8},
+  {
+    "text": "مواساة",
+    "frequency": 4},
+  {
+    "text": "ناعم",
+    "frequency": 1},
+  {
+    "text": "سنوي",
+    "frequency": 4},
+  {
+    "text": "تطبيق",
+    "frequency": 2},
+  {
+    "text": "هدوء",
+    "frequency": 2},
+  {
+    "text": "مسابقة",
+    "frequency": 2},
+  {
+    "text": "قادم",
+    "frequency": 3},
+  {
+    "text": "عادي",
+    "frequency": 5},
+  {
+    "text": "غريب",
+    "frequency": 1},
+  {
+    "text": "ارتباط",
+    "frequency": 3},
+  {
+    "text": "فتستثمرها",
+    "frequency": 1},
+  {
+    "text": "رويد",
+    "frequency": 2},
+  {
+    "text": "طريقة",
+    "frequency": 5},
+  {
+    "text": "تربية",
+    "frequency": 5},
+  {
+    "text": "تجلي",
+    "frequency": 2},
+  {
+    "text": "جسم",
+    "frequency": 1},
+  {
+    "text": "أجاب",
+    "frequency": 3},
+  {
+    "text": "ارتكب",
+    "frequency": 3},
+  {
+    "text": "بدأ",
+    "frequency": 7},
+  {
+    "text": "ألقى",
+    "frequency": 1},
+  {
+    "text": "صاري",
+    "frequency": 1},
+  {
+    "text": "خضري",
+    "frequency": 2},
+  {
+    "text": "امرؤ",
+    "frequency": 1},
+  {
+    "text": "رفض",
+    "frequency": 1},
+  {
+    "text": "إرسال",
+    "frequency": 1},
+  {
+    "text": "انهيار",
+    "frequency": 2},
+  {
+    "text": "عم",
+    "frequency": 4},
+  {
+    "text": "وجدان",
+    "frequency": 3},
+  {
+    "text": "فرد",
+    "frequency": 3},
+  {
+    "text": "ترسيخ",
+    "frequency": 6},
+  {
+    "text": "مبذول",
+    "frequency": 8},
+  {
+    "text": "دين",
+    "frequency": 4},
+  {
+    "text": "افتتان",
+    "frequency": 2},
+  {
+    "text": "متاح",
+    "frequency": 5},
+  {
+    "text": "خبير",
+    "frequency": 7},
+  {
+    "text": "فيروس",
+    "frequency": 2},
+  {
+    "text": "انحجاب",
+    "frequency": 2},
+  {
+    "text": "إستقبال",
+    "frequency": 2},
+  {
+    "text": "كاستيا",
+    "frequency": 3},
+  {
+    "text": "غربي",
+    "frequency": 6},
+  {
+    "text": "مدار",
+    "frequency": 2},
+  {
+    "text": "أسى",
+    "frequency": 4},
+  {
+    "text": "استكمال",
+    "frequency": 2},
+  {
+    "text": "لاأشت",
+    "frequency": 1},
+  {
+    "text": "شاء",
+    "frequency": 9},
+  {
+    "text": "مرحوم",
+    "frequency": 6},
+  {
+    "text": "تطلب",
+    "frequency": 5},
+  {
+    "text": "لغوي",
+    "frequency": 3},
+  {
+    "text": "فسر",
+    "frequency": 2},
+  {
+    "text": "اعتراض",
+    "frequency": 1},
+  {
+    "text": "أداة",
+    "frequency": 5},
+  {
+    "text": "أفضل",
+    "frequency": 5},
+  {
+    "text": "بيئي",
+    "frequency": 1},
+  {
+    "text": "فاس",
+    "frequency": 2},
+  {
+    "text": "محزن",
+    "frequency": 4},
+  {
+    "text": "درجة",
+    "frequency": 3},
+  {
+    "text": "بنون",
+    "frequency": 3},
+  {
+    "text": "تصوير",
+    "frequency": 1},
+  {
+    "text": "التواء",
+    "frequency": 1},
+  {
+    "text": "تنظيمي",
+    "frequency": 2},
+  {
+    "text": "فلذة",
+    "frequency": 2},
+  {
+    "text": "اتصال",
+    "frequency": 6},
+  {
+    "text": "دوخ",
+    "frequency": 2},
+  {
+    "text": "اختبار",
+    "frequency": 5},
+  {
+    "text": "متجدد",
+    "frequency": 4},
+  {
+    "text": "رفع",
+    "frequency": 11},
+  {
+    "text": "حالة",
+    "frequency": 5},
+  {
+    "text": "انطوى",
+    "frequency": 3},
+  {
+    "text": "مسار",
+    "frequency": 2},
+  {
+    "text": "صرف",
+    "frequency": 2},
+  {
+    "text": "ساعد",
+    "frequency": 7},
+  {
+    "text": "أبرز",
+    "frequency": 1},
+  {
+    "text": "وسيم",
+    "frequency": 1},
+  {
+    "text": "تقارب",
+    "frequency": 2},
+  {
+    "text": "شعري",
+    "frequency": 5},
+  {
+    "text": "تسيير",
+    "frequency": 3},
+  {
+    "text": "رجل",
+    "frequency": 2},
+  {
+    "text": "تحضيري",
+    "frequency": 2},
+  {
+    "text": "تاطير",
+    "frequency": 1},
+  {
+    "text": "أتقن",
+    "frequency": 1},
+  {
+    "text": "منجز",
+    "frequency": 2},
+  {
+    "text": "صميم",
+    "frequency": 2},
+  {
+    "text": "رشيد",
+    "frequency": 3},
+  {
+    "text": "جاذبية",
+    "frequency": 4},
+  {
+    "text": "برمجة",
+    "frequency": 5},
+  {
+    "text": "اختلف",
+    "frequency": 3},
+  {
+    "text": "افتتح",
+    "frequency": 2},
+  {
+    "text": "تحسيسي",
+    "frequency": 1},
+  {
+    "text": "عنف",
+    "frequency": 3},
+  {
+    "text": "حتم",
+    "frequency": 3},
+  {
+    "text": "تجول",
+    "frequency": 1},
+  {
+    "text": "مرافعة",
+    "frequency": 3},
+  {
+    "text": "شارع",
+    "frequency": 2},
+  {
+    "text": "محب",
+    "frequency": 2},
+  {
+    "text": "هد",
+    "frequency": 4},
+  {
+    "text": "رباط",
+    "frequency": 13},
+  {
+    "text": "جرى",
+    "frequency": 4},
+  {
+    "text": "طرح",
+    "frequency": 3},
+  {
+    "text": "معرض",
+    "frequency": 7},
+  {
+    "text": "وفرة",
+    "frequency": 1},
+  {
+    "text": "بادرة",
+    "frequency": 2},
+  {
+    "text": "نسق",
+    "frequency": 2},
+  {
+    "text": "تعين",
+    "frequency": 2},
+  {
+    "text": "سويسرا",
+    "frequency": 1},
+  {
+    "text": "مطلب",
+    "frequency": 2},
+  {
+    "text": "إرشاد",
+    "frequency": 1},
+  {
+    "text": "مدة",
+    "frequency": 5},
+  {
+    "text": "انتكاس",
+    "frequency": 2},
+  {
+    "text": "جماعي",
+    "frequency": 4},
+  {
+    "text": "زوال",
+    "frequency": 3},
+  {
+    "text": "اندماج",
+    "frequency": 2},
+  {
+    "text": "تولد",
+    "frequency": 1},
+  {
+    "text": "بوذي",
+    "frequency": 1},
+  {
+    "text": "استحضار",
+    "frequency": 1},
+  {
+    "text": "مرصد",
+    "frequency": 2},
+  {
+    "text": "إصرار",
+    "frequency": 4},
+  {
+    "text": "مليل",
+    "frequency": 2},
+  {
+    "text": "بيان",
+    "frequency": 3},
+  {
+    "text": "مسلك",
+    "frequency": 6},
+  {
+    "text": "بلقاسم",
+    "frequency": 2},
+  {
+    "text": "سينمائي",
+    "frequency": 2},
+  {
+    "text": "إرتقاء",
+    "frequency": 3},
+  {
+    "text": "دليل",
+    "frequency": 3},
+  {
+    "text": "جبار",
+    "frequency": 2},
+  {
+    "text": "مأسوي",
+    "frequency": 3},
+  {
+    "text": "توسع",
+    "frequency": 2},
+  {
+    "text": "تأقلم",
+    "frequency": 2},
+  {
+    "text": "مرتبة",
+    "frequency": 5},
+  {
+    "text": "محقق",
+    "frequency": 1},
+  {
+    "text": "مقبل",
+    "frequency": 6},
+  {
+    "text": "جدير",
+    "frequency": 3},
+  {
+    "text": "أحافير",
+    "frequency": 1},
+  {
+    "text": "زيارة",
+    "frequency": 22},
+  {
+    "text": "تعويض",
+    "frequency": 1},
+  {
+    "text": "انحسار",
+    "frequency": 3},
+  {
+    "text": "دراسي",
+    "frequency": 2},
+  {
+    "text": "مؤطر",
+    "frequency": 3},
+  {
+    "text": "عقب",
+    "frequency": 1},
+  {
+    "text": "تسبب",
+    "frequency": 4},
+  {
+    "text": "قسم",
+    "frequency": 3},
+  {
+    "text": "مكابدة",
+    "frequency": 1},
+  {
+    "text": "دب",
+    "frequency": 1},
+  {
+    "text": "تطوع",
+    "frequency": 3},
+  {
+    "text": "بنيوي",
+    "frequency": 1},
+  {
+    "text": "مسلم",
+    "frequency": 3},
+  {
+    "text": "بلانشو",
+    "frequency": 4},
+  {
+    "text": "هامش",
+    "frequency": 2},
+  {
+    "text": "شهيد",
+    "frequency": 7},
+  {
+    "text": "تعيين",
+    "frequency": 6},
+  {
+    "text": "مبني",
+    "frequency": 5},
+  {
+    "text": "أتاح",
+    "frequency": 3},
+  {
+    "text": "واسطة",
+    "frequency": 1},
+  {
+    "text": "عماد",
+    "frequency": 2},
+  {
+    "text": "قاعدة",
+    "frequency": 3},
+  {
+    "text": "صوان",
+    "frequency": 2},
+  {
+    "text": "بقي",
+    "frequency": 2},
+  {
+    "text": "مصالحة",
+    "frequency": 4},
+  {
+    "text": "حرب",
+    "frequency": 5},
+  {
+    "text": "طبق",
+    "frequency": 3},
+  {
+    "text": "مسؤولية",
+    "frequency": 7},
+  {
+    "text": "مؤسس",
+    "frequency": 2},
+  {
+    "text": "تواصل",
+    "frequency": 6},
+  {
+    "text": "أحاط",
+    "frequency": 3},
+  {
+    "text": "ألم",
+    "frequency": 4},
+  {
+    "text": "بحري",
+    "frequency": 1},
+  {
+    "text": "كافة",
+    "frequency": 5},
+  {
+    "text": "تهامي",
+    "frequency": 1},
+  {
+    "text": "فيظل",
+    "frequency": 2},
+  {
+    "text": "مظهر",
+    "frequency": 3},
+  {
+    "text": "فاتح",
+    "frequency": 3},
+  {
+    "text": "خيال",
+    "frequency": 1},
+  {
+    "text": "ظخمة",
+    "frequency": 2},
+  {
+    "text": "تلقف",
+    "frequency": 1},
+  {
+    "text": "مهني",
+    "frequency": 4},
+  {
+    "text": "اتون",
+    "frequency": 3},
+  {
+    "text": "دجاج",
+    "frequency": 1},
+  {
+    "text": "عقيدة",
+    "frequency": 1},
+  {
+    "text": "معدن",
+    "frequency": 1},
+  {
+    "text": "متزن",
+    "frequency": 1},
+  {
+    "text": "وقع",
+    "frequency": 4},
+  {
+    "text": "مرفق",
+    "frequency": 5},
+  {
+    "text": "منير",
+    "frequency": 2},
+  {
+    "text": "أندلس",
+    "frequency": 2},
+  {
+    "text": "تدريب",
+    "frequency": 9},
+  {
+    "text": "شهد",
+    "frequency": 4},
+  {
+    "text": "محبة",
+    "frequency": 2},
+  {
+    "text": "راد",
+    "frequency": 2},
+  {
+    "text": "ال",
+    "frequency": 10},
+  {
+    "text": "كاتب",
+    "frequency": 6},
+  {
+    "text": "حماس",
+    "frequency": 2},
+  {
+    "text": "ممنوح",
+    "frequency": 3},
+  {
+    "text": "تضمن",
+    "frequency": 4},
+  {
+    "text": "ارقى",
+    "frequency": 1},
+  {
+    "text": "مبنى",
+    "frequency": 4},
+  {
+    "text": "كسب",
+    "frequency": 1},
+  {
+    "text": "ازدهار",
+    "frequency": 5},
+  {
+    "text": "منبثق",
+    "frequency": 4},
+  {
+    "text": "اضطرب",
+    "frequency": 2},
+  {
+    "text": "ضئيل",
+    "frequency": 1},
+  {
+    "text": "عجان",
+    "frequency": 2},
+  {
+    "text": "تنشيط",
+    "frequency": 1},
+  {
+    "text": "مدفأ",
+    "frequency": 1},
+  {
+    "text": "خواء",
+    "frequency": 3},
+  {
+    "text": "أهمية",
+    "frequency": 4},
+  {
+    "text": "زين",
+    "frequency": 2},
+  {
+    "text": "سرى",
+    "frequency": 3},
+  {
+    "text": "رفقة",
+    "frequency": 2},
+  {
+    "text": "حوالي",
+    "frequency": 4},
+  {
+    "text": "أخير",
+    "frequency": 5},
+  {
+    "text": "سلف",
+    "frequency": 3},
+  {
+    "text": "ناتشرز",
+    "frequency": 3},
+  {
+    "text": "تيزيني",
+    "frequency": 1},
+  {
+    "text": "أكتف",
+    "frequency": 1},
+  {
+    "text": "لماستر",
+    "frequency": 1},
+  {
+    "text": "هش",
+    "frequency": 2},
+  {
+    "text": "أطول",
+    "frequency": 1},
+  {
+    "text": "تميز",
+    "frequency": 6},
+  {
+    "text": "توزيع",
+    "frequency": 2},
+  {
+    "text": "أصدر",
+    "frequency": 1},
+  {
+    "text": "منضبط",
+    "frequency": 1},
+  {
+    "text": "تشاطر",
+    "frequency": 3},
+  {
+    "text": "عز",
+    "frequency": 2},
+  {
+    "text": "تفوق",
+    "frequency": 1},
+  {
+    "text": "إتاحة",
+    "frequency": 6},
+  {
+    "text": "اعتراف",
+    "frequency": 3},
+  {
+    "text": "دارس",
+    "frequency": 1},
+  {
+    "text": "معطى",
+    "frequency": 5},
+  {
+    "text": "اي",
+    "frequency": 3},
+  {
+    "text": "أمر",
+    "frequency": 6},
+  {
+    "text": "مدمج",
+    "frequency": 2},
+  {
+    "text": "اضمحلال",
+    "frequency": 1},
+  {
+    "text": "تشعب",
+    "frequency": 2},
+  {
+    "text": "خالص",
+    "frequency": 1},
+  {
+    "text": "مستشفى",
+    "frequency": 8},
+  {
+    "text": "تعمير",
+    "frequency": 2},
+  {
+    "text": "قرن",
+    "frequency": 14},
+  {
+    "text": "انطلق",
+    "frequency": 5},
+  {
+    "text": "إنتاج",
+    "frequency": 4},
+  {
+    "text": "خبر",
+    "frequency": 2},
+  {
+    "text": "اعزائي",
+    "frequency": 1},
+  {
+    "text": "جمال",
+    "frequency": 3},
+  {
+    "text": "إرنست",
+    "frequency": 1},
+  {
+    "text": "نموذجي",
+    "frequency": 3},
+  {
+    "text": "زغيون",
+    "frequency": 2},
+  {
+    "text": "جمعوي",
+    "frequency": 1},
+  {
+    "text": "ذاكرة",
+    "frequency": 1},
+  {
+    "text": "كبسول",
+    "frequency": 3},
+  {
+    "text": "تدخل",
+    "frequency": 3},
+  {
+    "text": "أجرى",
+    "frequency": 1},
+  {
+    "text": "زميل",
+    "frequency": 2},
+  {
+    "text": "خليل",
+    "frequency": 2},
+  {
+    "text": "فتاك",
+    "frequency": 1},
+  {
+    "text": "إحداث",
+    "frequency": 4},
+  {
+    "text": "دفع",
+    "frequency": 3},
+  {
+    "text": "موروث",
+    "frequency": 1},
+  {
+    "text": "حرص",
+    "frequency": 4},
+  {
+    "text": "سلك",
+    "frequency": 4},
+  {
+    "text": "نهاية",
+    "frequency": 4},
+  {
+    "text": "عناية",
+    "frequency": 5},
+  {
+    "text": "سمى",
+    "frequency": 7},
+  {
+    "text": "درس",
+    "frequency": 4},
+  {
+    "text": "انتهاء",
+    "frequency": 3},
+  {
+    "text": "دقيقة",
+    "frequency": 3},
+  {
+    "text": "اقتراح",
+    "frequency": 3},
+  {
+    "text": "امتنان",
+    "frequency": 3},
+  {
+    "text": "مرتكز",
+    "frequency": 1},
+  {
+    "text": "مطرق",
+    "frequency": 1},
+  {
+    "text": "مؤخر",
+    "frequency": 2},
+  {
+    "text": "شريف",
+    "frequency": 2},
+  {
+    "text": "خيب",
+    "frequency": 2},
+  {
+    "text": "عبقري",
+    "frequency": 1},
+  {
+    "text": "سامي",
+    "frequency": 5},
+  {
+    "text": "محيط",
+    "frequency": 3},
+  {
+    "text": "اهتمام",
+    "frequency": 2},
+  {
+    "text": "متحفي",
+    "frequency": 2},
+  {
+    "text": "شعبة",
+    "frequency": 2},
+  {
+    "text": "كبد",
+    "frequency": 2},
+  {
+    "text": "موت",
+    "frequency": 2},
+  {
+    "text": "خوف",
+    "frequency": 5},
+  {
+    "text": "لامبالاة",
+    "frequency": 2},
+  {
+    "text": "قانون",
+    "frequency": 3},
+  {
+    "text": "الى",
+    "frequency": 7},
+  {
+    "text": "اعتصام",
+    "frequency": 2},
+  {
+    "text": "عمادة",
+    "frequency": 2},
+  {
+    "text": "انخراط",
+    "frequency": 6},
+  {
+    "text": "شرفتم",
+    "frequency": 1},
+  {
+    "text": "تحديد",
+    "frequency": 4},
+  {
+    "text": "استثناء",
+    "frequency": 4},
+  {
+    "text": "مقاتل",
+    "frequency": 1},
+  {
+    "text": "عملي",
+    "frequency": 1},
+  {
+    "text": "تطبيقي",
+    "frequency": 1},
+  {
+    "text": "تلقي",
+    "frequency": 1},
+  {
+    "text": "محوري",
+    "frequency": 3},
+  {
+    "text": "سقوط",
+    "frequency": 6},
+  {
+    "text": "مفاهيمي",
+    "frequency": 2},
+  {
+    "text": "مزاحمة",
+    "frequency": 2},
+  {
+    "text": "أبرم",
+    "frequency": 1},
+  {
+    "text": "مهيكل",
+    "frequency": 1},
+  {
+    "text": "رحمن",
+    "frequency": 2},
+  {
+    "text": "انكشف",
+    "frequency": 1},
+  {
+    "text": "اندفع",
+    "frequency": 1},
+  {
+    "text": "شل",
+    "frequency": 2},
+  {
+    "text": "واعد",
+    "frequency": 2},
+  {
+    "text": "كثيف",
+    "frequency": 1},
+  {
+    "text": "اراء",
+    "frequency": 1},
+  {
+    "text": "بلجيكي",
+    "frequency": 2},
+  {
+    "text": "منبر",
+    "frequency": 1},
+  {
+    "text": "مهاجر",
+    "frequency": 5},
+  {
+    "text": "قاري",
+    "frequency": 4},
+  {
+    "text": "ظن",
+    "frequency": 1},
+  {
+    "text": "اتفاق",
+    "frequency": 1},
+  {
+    "text": "غفار",
+    "frequency": 1},
+  {
+    "text": "هداالنظام",
+    "frequency": 2},
+  {
+    "text": "نتمى",
+    "frequency": 1},
+  {
+    "text": "فنان",
+    "frequency": 3},
+  {
+    "text": "اختفاء",
+    "frequency": 1},
+  {
+    "text": "افكار",
+    "frequency": 5},
+  {
+    "text": "انبغى",
+    "frequency": 5},
+  {
+    "text": "ريب",
+    "frequency": 1},
+  {
+    "text": "متفردن",
+    "frequency": 1},
+  {
+    "text": "مذكرة",
+    "frequency": 1},
+  {
+    "text": "شافي",
+    "frequency": 1},
+  {
+    "text": "صحيفة",
+    "frequency": 1},
+  {
+    "text": "دوم",
+    "frequency": 2},
+  {
+    "text": "متحسن",
+    "frequency": 1},
+  {
+    "text": "رقمنة",
+    "frequency": 3},
+  {
+    "text": "مبرمج",
+    "frequency": 4},
+  {
+    "text": "دشن",
+    "frequency": 1},
+  {
+    "text": "مخصص",
+    "frequency": 2},
+  {
+    "text": "منصوص",
+    "frequency": 1},
+  {
+    "text": "عمم",
+    "frequency": 1},
+  {
+    "text": "سلامة",
+    "frequency": 3},
+  {
+    "text": "أيكولوجية",
+    "frequency": 4},
+  {
+    "text": "تشكيل",
+    "frequency": 2},
+  {
+    "text": "بريسفانغر",
+    "frequency": 1},
+  {
+    "text": "انص",
+    "frequency": 8},
+  {
+    "text": "صياغة",
+    "frequency": 1},
+  {
+    "text": "صوف",
+    "frequency": 1},
+  {
+    "text": "حربي",
+    "frequency": 2},
+  {
+    "text": "هيلاري",
+    "frequency": 2},
+  {
+    "text": "خاطئ",
+    "frequency": 2},
+  {
+    "text": "احكام",
+    "frequency": 1},
+  {
+    "text": "سائر",
+    "frequency": 1},
+  {
+    "text": "سوسيولوجية",
+    "frequency": 3},
+  {
+    "text": "مرأة",
+    "frequency": 4},
+  {
+    "text": "تجلى",
+    "frequency": 1},
+  {
+    "text": "نفوذ",
+    "frequency": 1},
+  {
+    "text": "كبح",
+    "frequency": 4},
+  {
+    "text": "أنتوني",
+    "frequency": 4},
+  {
+    "text": "يومي",
+    "frequency": 3},
+  {
+    "text": "وقوف",
+    "frequency": 2},
+  {
+    "text": "نبأ",
+    "frequency": 8},
+  {
+    "text": "تلف",
+    "frequency": 3},
+  {
+    "text": "مجيب",
+    "frequency": 6},
+  {
+    "text": "بلاط",
+    "frequency": 2},
+  {
+    "text": "تغيير",
+    "frequency": 8},
+  {
+    "text": "نيقوماخوس",
+    "frequency": 1},
+  {
+    "text": "جرؤ",
+    "frequency": 3},
+  {
+    "text": "مستقبلي",
+    "frequency": 3},
+  {
+    "text": "تشابك",
+    "frequency": 3},
+  {
+    "text": "نقدي",
+    "frequency": 2},
+  {
+    "text": "استلام",
+    "frequency": 3},
+  {
+    "text": "افتتاحية",
+    "frequency": 3},
+  {
+    "text": "كليم",
+    "frequency": 1},
+  {
+    "text": "تسلية",
+    "frequency": 1},
+  {
+    "text": "شك",
+    "frequency": 2},
+  {
+    "text": "بشرية",
+    "frequency": 11},
+  {
+    "text": "تيط",
+    "frequency": 1},
+  {
+    "text": "وصية",
+    "frequency": 1},
+  {
+    "text": "حكيم",
+    "frequency": 2},
+  {
+    "text": "اغتنم",
+    "frequency": 3},
+  {
+    "text": "مكث",
+    "frequency": 2},
+  {
+    "text": "ضبابي",
+    "frequency": 4},
+  {
+    "text": "غابون",
+    "frequency": 1},
+  {
+    "text": "اضطراب",
+    "frequency": 1},
+  {
+    "text": "دوغمائي",
+    "frequency": 3},
+  {
+    "text": "أولائك",
+    "frequency": 1},
+  {
+    "text": "كرار",
+    "frequency": 1},
+  {
+    "text": "أخطر",
+    "frequency": 1},
+  {
+    "text": "وثيقة",
+    "frequency": 2},
+  {
+    "text": "ترتيب",
+    "frequency": 4},
+  {
+    "text": "جراء",
+    "frequency": 1},
+  {
+    "text": "خطير",
+    "frequency": 3},
+  {
+    "text": "متعاقد",
+    "frequency": 5},
+  {
+    "text": "انجاد",
+    "frequency": 2},
+  {
+    "text": "راجي",
+    "frequency": 2},
+  {
+    "text": "حاسد",
+    "frequency": 1},
+  {
+    "text": "فراغ",
+    "frequency": 4},
+  {
+    "text": "أصيل",
+    "frequency": 1},
+  {
+    "text": "جدر",
+    "frequency": 1},
+  {
+    "text": "كراهية",
+    "frequency": 4},
+  {
+    "text": "وحد",
+    "frequency": 4},
+  {
+    "text": "لعب",
+    "frequency": 3},
+  {
+    "text": "متألم",
+    "frequency": 1},
+  {
+    "text": "مستند",
+    "frequency": 1},
+  {
+    "text": "استمرار",
+    "frequency": 4},
+  {
+    "text": "وارد",
+    "frequency": 1},
+  {
+    "text": "إقرار",
+    "frequency": 1},
+  {
+    "text": "سفر",
+    "frequency": 2},
+  {
+    "text": "تحرر",
+    "frequency": 8},
+  {
+    "text": "مبدأ",
+    "frequency": 6},
+  {
+    "text": "إبان",
+    "frequency": 3},
+  {
+    "text": "مسألة",
+    "frequency": 2},
+  {
+    "text": "شرى",
+    "frequency": 1},
+  {
+    "text": "مزرع",
+    "frequency": 2},
+  {
+    "text": "نور",
+    "frequency": 2},
+  {
+    "text": "عضوي",
+    "frequency": 1},
+  {
+    "text": "تخويل",
+    "frequency": 1},
+  {
+    "text": "مرضي",
+    "frequency": 2},
+  {
+    "text": "باطن",
+    "frequency": 4},
+  {
+    "text": "عمق",
+    "frequency": 6},
+  {
+    "text": "لحظة",
+    "frequency": 3},
+  {
+    "text": "فاضيلي",
+    "frequency": 4},
+  {
+    "text": "إيجابي",
+    "frequency": 1},
+  {
+    "text": "قسط",
+    "frequency": 2},
+  {
+    "text": "ذكاء",
+    "frequency": 1},
+  {
+    "text": "مسجل",
+    "frequency": 2},
+  {
+    "text": "تدارس",
+    "frequency": 2},
+  {
+    "text": "قلب",
+    "frequency": 1},
+  {
+    "text": "جمع",
+    "frequency": 1},
+  {
+    "text": "تطوان",
+    "frequency": 2},
+  {
+    "text": "تولي",
+    "frequency": 1},
+  {
+    "text": "شبل",
+    "frequency": 1},
+  {
+    "text": "ملذة",
+    "frequency": 1},
+  {
+    "text": "داعي",
+    "frequency": 2},
+  {
+    "text": "بلغ",
+    "frequency": 4},
+  {
+    "text": "الطهطاوي",
+    "frequency": 2},
+  {
+    "text": "ناجع",
+    "frequency": 1},
+  {
+    "text": "هايتي",
+    "frequency": 1},
+  {
+    "text": "افت",
+    "frequency": 3},
+  {
+    "text": "أمريكي",
+    "frequency": 5},
+  {
+    "text": "كوناكري",
+    "frequency": 1},
+  {
+    "text": "حزب",
+    "frequency": 1},
+  {
+    "text": "مشابه",
+    "frequency": 1},
+  {
+    "text": "اشتغل",
+    "frequency": 1},
+  {
+    "text": "مبلغ",
+    "frequency": 1},
+  {
+    "text": "نعيم",
+    "frequency": 2},
+  {
+    "text": "صدارة",
+    "frequency": 2},
+  {
+    "text": "سقراط",
+    "frequency": 1},
+  {
+    "text": "اضمحل",
+    "frequency": 1},
+  {
+    "text": "صخر",
+    "frequency": 1},
+  {
+    "text": "إجماع",
+    "frequency": 1},
+  {
+    "text": "انضم",
+    "frequency": 2},
+  {
+    "text": "حركي",
+    "frequency": 7},
+  {
+    "text": "تلنباخ",
+    "frequency": 2},
+  {
+    "text": "هايدغر",
+    "frequency": 3},
+  {
+    "text": "ايض",
+    "frequency": 1},
+  {
+    "text": "نشأة",
+    "frequency": 4},
+  {
+    "text": "طفل",
+    "frequency": 2},
+  {
+    "text": "حديث",
+    "frequency": 9},
+  {
+    "text": "قاسم",
+    "frequency": 2},
+  {
+    "text": "شخصي",
+    "frequency": 1},
+  {
+    "text": "تسجيل",
+    "frequency": 5},
+  {
+    "text": "جاء",
+    "frequency": 1},
+  {
+    "text": "واكب",
+    "frequency": 4},
+  {
+    "text": "انطلاقة",
+    "frequency": 1},
+  {
+    "text": "نصيحة",
+    "frequency": 1},
+  {
+    "text": "تنافسي",
+    "frequency": 4},
+  {
+    "text": "ساحة",
+    "frequency": 4},
+  {
+    "text": "مكشوف",
+    "frequency": 1},
+  {
+    "text": "عنا",
+    "frequency": 3},
+  {
+    "text": "راهن",
+    "frequency": 2},
+  {
+    "text": "إله",
+    "frequency": 4},
+  {
+    "text": "خارجي",
+    "frequency": 3},
+  {
+    "text": "نفع",
+    "frequency": 1},
+  {
+    "text": "حماية",
+    "frequency": 1},
+  {
+    "text": "بطالة",
+    "frequency": 2},
+  {
+    "text": "قصة",
+    "frequency": 3},
+  {
+    "text": "التقط",
+    "frequency": 2},
+  {
+    "text": "مايقومون",
+    "frequency": 2},
+  {
+    "text": "تأكيدي",
+    "frequency": 2},
+  {
+    "text": "متتبع",
+    "frequency": 3},
+  {
+    "text": "شديد",
+    "frequency": 3},
+  {
+    "text": "استضافة",
+    "frequency": 2},
+  {
+    "text": "قلق",
+    "frequency": 3},
+  {
+    "text": "سطح",
+    "frequency": 3},
+  {
+    "text": "مبروك",
+    "frequency": 3},
+  {
+    "text": "سكنى",
+    "frequency": 2},
+  {
+    "text": "منطومة",
+    "frequency": 2},
+  {
+    "text": "كأس",
+    "frequency": 1},
+  {
+    "text": "مهتم",
+    "frequency": 1},
+  {
+    "text": "متكامل",
+    "frequency": 3},
+  {
+    "text": "مليكة",
+    "frequency": 2},
+  {
+    "text": "استعمار",
+    "frequency": 1},
+  {
+    "text": "نجح",
+    "frequency": 1},
+  {
+    "text": "ممكن",
+    "frequency": 3},
+  {
+    "text": "حر",
+    "frequency": 1},
+  {
+    "text": "ناب",
+    "frequency": 1},
+  {
+    "text": "تسوليكون",
+    "frequency": 3},
+  {
+    "text": "موحد",
+    "frequency": 2},
+  {
+    "text": "تعبيري",
+    "frequency": 1},
+  {
+    "text": "ماضي",
+    "frequency": 2},
+  {
+    "text": "جلب",
+    "frequency": 1},
+  {
+    "text": "أعز",
+    "frequency": 1},
+  {
+    "text": "منح",
+    "frequency": 7},
+  {
+    "text": "مديون",
+    "frequency": 1},
+  {
+    "text": "طويل",
+    "frequency": 2},
+  {
+    "text": "مقتصر",
+    "frequency": 1},
+  {
+    "text": "أصلي",
+    "frequency": 1},
+  {
+    "text": "نطق",
+    "frequency": 1},
+  {
+    "text": "زهرالدين",
+    "frequency": 3},
+  {
+    "text": "انعقاد",
+    "frequency": 2},
+  {
+    "text": "تقوية",
+    "frequency": 2},
+  {
+    "text": "صوفية",
+    "frequency": 2},
+  {
+    "text": "أدار",
+    "frequency": 3},
+  {
+    "text": "مجمل",
+    "frequency": 1},
+  {
+    "text": "سيماكو",
+    "frequency": 2},
+  {
+    "text": "حرج",
+    "frequency": 1},
+  {
+    "text": "طموح",
+    "frequency": 1},
+  {
+    "text": "نزاع",
+    "frequency": 1},
+  {
+    "text": "تطهير",
+    "frequency": 2},
+  {
+    "text": "سقف",
+    "frequency": 1},
+  {
+    "text": "شركة",
+    "frequency": 4},
+  {
+    "text": "يموقع",
+    "frequency": 1},
+  {
+    "text": "إستطاع",
+    "frequency": 1},
+  {
+    "text": "سيرورة",
+    "frequency": 1},
+  {
+    "text": "تطلع",
+    "frequency": 2},
+  {
+    "text": "بغية",
+    "frequency": 2},
+  {
+    "text": "جغرافيا",
+    "frequency": 1},
+  {
+    "text": "نعمة",
+    "frequency": 2},
+  {
+    "text": "صحة",
+    "frequency": 3},
+  {
+    "text": "كمال",
+    "frequency": 3},
+  {
+    "text": "محاولة",
+    "frequency": 1},
+  {
+    "text": "بنك",
+    "frequency": 2},
+  {
+    "text": "نقصان",
+    "frequency": 1},
+  {
+    "text": "فضيلة",
+    "frequency": 5},
+  {
+    "text": "إغلاق",
+    "frequency": 1},
+  {
+    "text": "زار",
+    "frequency": 2},
+  {
+    "text": "تغريد",
+    "frequency": 1},
+  {
+    "text": "أيد",
+    "frequency": 1},
+  {
+    "text": "جاهز",
+    "frequency": 1},
+  {
+    "text": "عقلي",
+    "frequency": 3},
+  {
+    "text": "بلينكن",
+    "frequency": 1},
+  {
+    "text": "أخلاقي",
+    "frequency": 1},
+  {
+    "text": "مفجع",
+    "frequency": 1},
+  {
+    "text": "ورشة",
+    "frequency": 2},
+  {
+    "text": "صفح",
+    "frequency": 2},
+  {
+    "text": "يتلقح",
+    "frequency": 2},
+  {
+    "text": "متوخى",
+    "frequency": 1},
+  {
+    "text": "جسد",
+    "frequency": 2},
+  {
+    "text": "مرتزق",
+    "frequency": 2},
+  {
+    "text": "دواء",
+    "frequency": 4},
+  {
+    "text": "إلقاء",
+    "frequency": 3},
+  {
+    "text": "عقلاني",
+    "frequency": 2},
+  {
+    "text": "خوان",
+    "frequency": 3},
+  {
+    "text": "ممارس",
+    "frequency": 3},
+  {
+    "text": "نافور",
+    "frequency": 2},
+  {
+    "text": "تزاني",
+    "frequency": 1},
+  {
+    "text": "استقرار",
+    "frequency": 2},
+  {
+    "text": "استعداد",
+    "frequency": 3},
+  {
+    "text": "سلمي",
+    "frequency": 1},
+  {
+    "text": "إلكتروني",
+    "frequency": 4},
+  {
+    "text": "عاجز",
+    "frequency": 2},
+  {
+    "text": "ميدان",
+    "frequency": 3},
+  {
+    "text": "عداء",
+    "frequency": 1},
+  {
+    "text": "أوراغ",
+    "frequency": 3},
+  {
+    "text": "انفعالي",
+    "frequency": 2},
+  {
+    "text": "أظهر",
+    "frequency": 1},
+  {
+    "text": "امرأة",
+    "frequency": 1},
+  {
+    "text": "اشراك",
+    "frequency": 1},
+  {
+    "text": "اكتفاء",
+    "frequency": 1},
+  {
+    "text": "جليدي",
+    "frequency": 1},
+  {
+    "text": "إكراه",
+    "frequency": 1},
+  {
+    "text": "كمي",
+    "frequency": 2},
+  {
+    "text": "أغلب",
+    "frequency": 1},
+  {
+    "text": "اعتنى",
+    "frequency": 1},
+  {
+    "text": "خر",
+    "frequency": 1},
+  {
+    "text": "عمود",
+    "frequency": 1},
+  {
+    "text": "أحمد",
+    "frequency": 2},
+  {
+    "text": "جرب",
+    "frequency": 1},
+  {
+    "text": "أميركي",
+    "frequency": 1},
+  {
+    "text": "زمن",
+    "frequency": 2},
+  {
+    "text": "مضيف",
+    "frequency": 1},
+  {
+    "text": "مقيم",
+    "frequency": 5},
+  {
+    "text": "نيابة",
+    "frequency": 2},
+  {
+    "text": "تافيلالت",
+    "frequency": 2},
+  {
+    "text": "وراء",
+    "frequency": 1},
+  {
+    "text": "تكنولوجي",
+    "frequency": 2},
+  {
+    "text": "قوام",
+    "frequency": 1},
+  {
+    "text": "استمع",
+    "frequency": 3},
+  {
+    "text": "ضروب",
+    "frequency": 1},
+  {
+    "text": "توكيدي",
+    "frequency": 3},
+  {
+    "text": "سيطرة",
+    "frequency": 1},
+  {
+    "text": "قرار",
+    "frequency": 3},
+  {
+    "text": "تنصيب",
+    "frequency": 1},
+  {
+    "text": "ولوج",
+    "frequency": 3},
+  {
+    "text": "ناقد",
+    "frequency": 2},
+  {
+    "text": "الإنتاجالاستهلاكالتدمير",
+    "frequency": 2},
+  {
+    "text": "عثر",
+    "frequency": 3},
+  {
+    "text": "عصاب",
+    "frequency": 2},
+  {
+    "text": "احترام",
+    "frequency": 1},
+  {
+    "text": "اتجار",
+    "frequency": 2},
+  {
+    "text": "ضيف",
+    "frequency": 2},
+  {
+    "text": "مائدة",
+    "frequency": 3},
+  {
+    "text": "آلي",
+    "frequency": 3},
+  {
+    "text": "سرور",
+    "frequency": 1},
+  {
+    "text": "سجال",
+    "frequency": 2},
+  {
+    "text": "رتبة",
+    "frequency": 2},
+  {
+    "text": "محلي",
+    "frequency": 4},
+  {
+    "text": "رقي",
+    "frequency": 5},
+  {
+    "text": "جزل",
+    "frequency": 1},
+  {
+    "text": "مغلف",
+    "frequency": 1},
+  {
+    "text": "قائمة",
+    "frequency": 2},
+  {
+    "text": "ألماني",
+    "frequency": 1},
+  {
+    "text": "موج",
+    "frequency": 2},
+  {
+    "text": "هيدغرية",
+    "frequency": 1},
+  {
+    "text": "أبطل",
+    "frequency": 1},
+  {
+    "text": "جيل",
+    "frequency": 3},
+  {
+    "text": "آينشتاين",
+    "frequency": 1},
+  {
+    "text": "بلانكنبورغ",
+    "frequency": 1},
+  {
+    "text": "هابرماس",
+    "frequency": 1},
+  {
+    "text": "أهل",
+    "frequency": 1},
+  {
+    "text": "خص",
+    "frequency": 3},
+  {
+    "text": "مورد",
+    "frequency": 4},
+  {
+    "text": "كفيل",
+    "frequency": 3},
+  {
+    "text": "ماربورغ",
+    "frequency": 1},
+  {
+    "text": "بونتي",
+    "frequency": 1},
+  {
+    "text": "مشجع",
+    "frequency": 4},
+  {
+    "text": "شرط",
+    "frequency": 3},
+  {
+    "text": "عنى",
+    "frequency": 1},
+  {
+    "text": "رخاء",
+    "frequency": 1},
+  {
+    "text": "وصل",
+    "frequency": 2},
+  {
+    "text": "عائل",
+    "frequency": 1},
+  {
+    "text": "مال",
+    "frequency": 2},
+  {
+    "text": "تقصير",
+    "frequency": 1},
+  {
+    "text": "مزري",
+    "frequency": 1},
+  {
+    "text": "بطائق",
+    "frequency": 1},
+  {
+    "text": "سهل",
+    "frequency": 4},
+  {
+    "text": "استيضاح",
+    "frequency": 2},
+  {
+    "text": "معلومة",
+    "frequency": 4},
+  {
+    "text": "حراسة",
+    "frequency": 1},
+  {
+    "text": "اللا",
+    "frequency": 1},
+  {
+    "text": "فات",
+    "frequency": 2},
+  {
+    "text": "جامع",
+    "frequency": 2},
+  {
+    "text": "صوفي",
+    "frequency": 2},
+  {
+    "text": "قذف",
+    "frequency": 2},
+  {
+    "text": "فريسة",
+    "frequency": 1},
+  {
+    "text": "حمولة",
+    "frequency": 3},
+  {
+    "text": "كلفة",
+    "frequency": 2},
+  {
+    "text": "فاطمة",
+    "frequency": 2},
+  {
+    "text": "زمني",
+    "frequency": 2},
+  {
+    "text": "إنجازي",
+    "frequency": 1},
+  {
+    "text": "اولى",
+    "frequency": 2},
+  {
+    "text": "لوغلام",
+    "frequency": 1},
+  {
+    "text": "معقد",
+    "frequency": 2},
+  {
+    "text": "ريحي",
+    "frequency": 1},
+  {
+    "text": "مفقود",
+    "frequency": 1},
+  {
+    "text": "متابعة",
+    "frequency": 2},
+  {
+    "text": "رأس",
+    "frequency": 4},
+  {
+    "text": "قشة",
+    "frequency": 3},
+  {
+    "text": "مشهور",
+    "frequency": 1},
+  {
+    "text": "يد",
+    "frequency": 2},
+  {
+    "text": "انضمام",
+    "frequency": 1},
+  {
+    "text": "منسق",
+    "frequency": 3},
+  {
+    "text": "ختام",
+    "frequency": 2},
+  {
+    "text": "مناب",
+    "frequency": 1},
+  {
+    "text": "جرح",
+    "frequency": 1},
+  {
+    "text": "قطع",
+    "frequency": 1},
+  {
+    "text": "سوسيوثقافي",
+    "frequency": 1},
+  {
+    "text": "خبيئة",
+    "frequency": 1},
+  {
+    "text": "قاعة",
+    "frequency": 1},
+  {
+    "text": "تطرق",
+    "frequency": 3},
+  {
+    "text": "رافع",
+    "frequency": 1},
+  {
+    "text": "شجاعة",
+    "frequency": 2},
+  {
+    "text": "انتخابي",
+    "frequency": 1},
+  {
+    "text": "عدو",
+    "frequency": 1},
+  {
+    "text": "اعتلال",
+    "frequency": 2},
+  {
+    "text": "تاوريرت",
+    "frequency": 1},
+  {
+    "text": "ترشيح",
+    "frequency": 2},
+  {
+    "text": "أممي",
+    "frequency": 2},
+  {
+    "text": "جرأة",
+    "frequency": 1},
+  {
+    "text": "لتجربتي",
+    "frequency": 1},
+  {
+    "text": "خول",
+    "frequency": 2},
+  {
+    "text": "غارة",
+    "frequency": 1},
+  {
+    "text": "أستاذي",
+    "frequency": 1},
+  {
+    "text": "سعى",
+    "frequency": 2},
+  {
+    "text": "آمن",
+    "frequency": 1},
+  {
+    "text": "جريء",
+    "frequency": 2},
+  {
+    "text": "موفق",
+    "frequency": 3},
+  {
+    "text": "مهجر",
+    "frequency": 2},
+  {
+    "text": "موسى",
+    "frequency": 1},
+  {
+    "text": "صدى",
+    "frequency": 2},
+  {
+    "text": "انتصب",
+    "frequency": 3},
+  {
+    "text": "حسد",
+    "frequency": 1},
+  {
+    "text": "أقلمة",
+    "frequency": 1},
+  {
+    "text": "مقطع",
+    "frequency": 1},
+  {
+    "text": "نظامي",
+    "frequency": 1},
+  {
+    "text": "أرنولد",
+    "frequency": 1},
+  {
+    "text": "مجمع",
+    "frequency": 1},
+  {
+    "text": "ديموقراطي",
+    "frequency": 1},
+  {
+    "text": "مفعول",
+    "frequency": 1},
+  {
+    "text": "مقال",
+    "frequency": 1},
+  {
+    "text": "تحلية",
+    "frequency": 1},
+  {
+    "text": "فأغدو",
+    "frequency": 1},
+  {
+    "text": "تمزق",
+    "frequency": 1},
+  {
+    "text": "هايدجر",
+    "frequency": 1},
+  {
+    "text": "دائري",
+    "frequency": 2},
+  {
+    "text": "عاقب",
+    "frequency": 1},
+  {
+    "text": "شرح",
+    "frequency": 2},
+  {
+    "text": "يسلي",
+    "frequency": 1},
+  {
+    "text": "حير",
+    "frequency": 2},
+  {
+    "text": "خير",
+    "frequency": 2},
+  {
+    "text": "ميتافيزيقا",
+    "frequency": 1},
+  {
+    "text": "ميداني",
+    "frequency": 1},
+  {
+    "text": "عبأ",
+    "frequency": 1},
+  {
+    "text": "قدوم",
+    "frequency": 3},
+  {
+    "text": "قذافي",
+    "frequency": 1},
+  {
+    "text": "ملاءمة",
+    "frequency": 1},
+  {
+    "text": "مدعم",
+    "frequency": 1},
+  {
+    "text": "يعكوبي",
+    "frequency": 1},
+  {
+    "text": "بطل",
+    "frequency": 3},
+  {
+    "text": "خاطر",
+    "frequency": 1},
+  {
+    "text": "يستنجدون",
+    "frequency": 1},
+  {
+    "text": "كونغو",
+    "frequency": 2},
+  {
+    "text": "ناقش",
+    "frequency": 1},
+  {
+    "text": "اكتسب",
+    "frequency": 2},
+  {
+    "text": "محدث",
+    "frequency": 2},
+  {
+    "text": "متافيزيائي",
+    "frequency": 2},
+  {
+    "text": "أحدث",
+    "frequency": 1},
+  {
+    "text": "إلغاز",
+    "frequency": 1},
+  {
+    "text": "كدا",
+    "frequency": 4},
+  {
+    "text": "فين",
+    "frequency": 1},
+  {
+    "text": "مصدر",
+    "frequency": 6},
+  {
+    "text": "اعتدالي",
+    "frequency": 1},
+  {
+    "text": "3",
+    "frequency": 1},
+  {
+    "text": "إعلان",
+    "frequency": 1},
+  {
+    "text": "عبرالمشاركة",
+    "frequency": 1},
+  {
+    "text": "بلوغ",
+    "frequency": 1},
+  {
+    "text": "مضى",
+    "frequency": 1},
+  {
+    "text": "إلخ",
+    "frequency": 3},
+  {
+    "text": "مقاولاتي",
+    "frequency": 1},
+  {
+    "text": "إطلاع",
+    "frequency": 1},
+  {
+    "text": "ماسترهذا",
+    "frequency": 1},
+  {
+    "text": "فالو",
+    "frequency": 1},
+  {
+    "text": "أوزوالد",
+    "frequency": 1},
+  {
+    "text": "رميصاء",
+    "frequency": 1},
+  {
+    "text": "نظري",
+    "frequency": 1},
+  {
+    "text": "مؤكد",
+    "frequency": 1},
+  {
+    "text": "رشد",
+    "frequency": 1},
+  {
+    "text": "مستشرف",
+    "frequency": 1},
+  {
+    "text": "يضني",
+    "frequency": 2},
+  {
+    "text": "مغطى",
+    "frequency": 3},
+  {
+    "text": "الباكالوريوس",
+    "frequency": 1},
+  {
+    "text": "مكناس",
+    "frequency": 2},
+  {
+    "text": "بذرة",
+    "frequency": 1},
+  {
+    "text": "مرحلة",
+    "frequency": 4},
+  {
+    "text": "هنائي",
+    "frequency": 2},
+  {
+    "text": "قضى",
+    "frequency": 4},
+  {
+    "text": "انتقال",
+    "frequency": 2},
+  {
+    "text": "مدرج",
+    "frequency": 2},
+  {
+    "text": "انساق",
+    "frequency": 1},
+  {
+    "text": "أسهم",
+    "frequency": 3},
+  {
+    "text": "مرة",
+    "frequency": 2},
+  {
+    "text": "اعضاؤ",
+    "frequency": 2},
+  {
+    "text": "محدود",
+    "frequency": 1},
+  {
+    "text": "نخبوية",
+    "frequency": 1},
+  {
+    "text": "دازا",
+    "frequency": 2},
+  {
+    "text": "حارة",
+    "frequency": 1},
+  {
+    "text": "قوت",
+    "frequency": 2},
+  {
+    "text": "أوقع",
+    "frequency": 1},
+  {
+    "text": "إدراك",
+    "frequency": 3},
+  {
+    "text": "متوقع",
+    "frequency": 2},
+  {
+    "text": "وثير",
+    "frequency": 2},
+  {
+    "text": "عملية",
+    "frequency": 3},
+  {
+    "text": "اضطلع",
+    "frequency": 1},
+  {
+    "text": "ائتلاف",
+    "frequency": 2},
+  {
+    "text": "دفلي",
+    "frequency": 2},
+  {
+    "text": "مفوض",
+    "frequency": 1},
+  {
+    "text": "موهبة",
+    "frequency": 3},
+  {
+    "text": "نبيئ",
+    "frequency": 3},
+  {
+    "text": "حرارة",
+    "frequency": 1},
+  {
+    "text": "نهوض",
+    "frequency": 2},
+  {
+    "text": "تخصصي",
+    "frequency": 1},
+  {
+    "text": "هايدلبرغ",
+    "frequency": 1},
+  {
+    "text": "خطاب",
+    "frequency": 2},
+  {
+    "text": "غيري",
+    "frequency": 1},
+  {
+    "text": "عجز",
+    "frequency": 2},
+  {
+    "text": "تألق",
+    "frequency": 1},
+  {
+    "text": "سيت",
+    "frequency": 1},
+  {
+    "text": "عرضاني",
+    "frequency": 1},
+  {
+    "text": "مغامرة",
+    "frequency": 1},
+  {
+    "text": "ودع",
+    "frequency": 1},
+  {
+    "text": "تتحتل",
+    "frequency": 2},
+  {
+    "text": "جابه",
+    "frequency": 1},
+  {
+    "text": "بوس",
+    "frequency": 2},
+  {
+    "text": "استعارة",
+    "frequency": 2},
+  {
+    "text": "أنصب",
+    "frequency": 1},
+  {
+    "text": "تقليدي",
+    "frequency": 2},
+  {
+    "text": "غرض",
+    "frequency": 3},
+  {
+    "text": "أوائل",
+    "frequency": 1},
+  {
+    "text": "نيابي",
+    "frequency": 1},
+  {
+    "text": "حضر",
+    "frequency": 1},
+  {
+    "text": "صمت",
+    "frequency": 1},
+  {
+    "text": "فاخوري",
+    "frequency": 1},
+  {
+    "text": "أنبوب",
+    "frequency": 2},
+  {
+    "text": "ابداعي",
+    "frequency": 1},
+  {
+    "text": "زهر",
+    "frequency": 2},
+  {
+    "text": "يرافقكم",
+    "frequency": 1},
+  {
+    "text": "تكامل",
+    "frequency": 1},
+  {
+    "text": "اكتروني",
+    "frequency": 2},
+  {
+    "text": "نزول",
+    "frequency": 1},
+  {
+    "text": "إعتراف",
+    "frequency": 1},
+  {
+    "text": "باهظ",
+    "frequency": 2},
+  {
+    "text": "كوري",
+    "frequency": 1},
+  {
+    "text": "رقيق",
+    "frequency": 1},
+  {
+    "text": "محمودي",
+    "frequency": 2},
+  {
+    "text": "تشريعي",
+    "frequency": 3},
+  {
+    "text": "تيليسكوب",
+    "frequency": 1},
+  {
+    "text": "أهيب",
+    "frequency": 3},
+  {
+    "text": "عسلاوي",
+    "frequency": 1},
+  {
+    "text": "مخلص",
+    "frequency": 1},
+  {
+    "text": "معين",
+    "frequency": 1},
+  {
+    "text": "حرف",
+    "frequency": 1},
+  {
+    "text": "مناخ",
+    "frequency": 1},
+  {
+    "text": "مفاجئ",
+    "frequency": 1},
+  {
+    "text": "سهم",
+    "frequency": 1},
+  {
+    "text": "سلبي",
+    "frequency": 1},
+  {
+    "text": "بيساو",
+    "frequency": 3},
+  {
+    "text": "وهم",
+    "frequency": 1},
+  {
+    "text": "تسوية",
+    "frequency": 2},
+  {
+    "text": "رايلي",
+    "frequency": 1},
+  {
+    "text": "اختزن",
+    "frequency": 1},
+  {
+    "text": "مثال",
+    "frequency": 1},
+  {
+    "text": "نفتتح",
+    "frequency": 1},
+  {
+    "text": "انتهك",
+    "frequency": 1},
+  {
+    "text": "خليق",
+    "frequency": 3},
+  {
+    "text": "أحسن",
+    "frequency": 1},
+  {
+    "text": "منحوت",
+    "frequency": 2},
+  {
+    "text": "عبدالحفيض",
+    "frequency": 1},
+  {
+    "text": "بئر",
+    "frequency": 2},
+  {
+    "text": "ادعى",
+    "frequency": 1},
+  {
+    "text": "حفز",
+    "frequency": 2},
+  {
+    "text": "تجديد",
+    "frequency": 2},
+  {
+    "text": "ولفيناس",
+    "frequency": 2},
+  {
+    "text": "ورقة",
+    "frequency": 3},
+  {
+    "text": "مشدد",
+    "frequency": 1},
+  {
+    "text": "مختبر",
+    "frequency": 2},
+  {
+    "text": "شهوة",
+    "frequency": 2},
+  {
+    "text": "الطب",
+    "frequency": 1},
+  {
+    "text": "والصيدلة",
+    "frequency": 1},
+  {
+    "text": "بيئة",
+    "frequency": 2},
+  {
+    "text": "ظاهراتي",
+    "frequency": 1},
+  {
+    "text": "منية",
+    "frequency": 1},
+  {
+    "text": "سينوي",
+    "frequency": 1},
+  {
+    "text": "رحلة",
+    "frequency": 3},
+  {
+    "text": "إيلاء",
+    "frequency": 1},
+  {
+    "text": "ميكانيك",
+    "frequency": 1},
+  {
+    "text": "مسلكي",
+    "frequency": 1},
+  {
+    "text": "يع",
+    "frequency": 2},
+  {
+    "text": "تدريس",
+    "frequency": 1},
+  {
+    "text": "تكلم",
+    "frequency": 1},
+  {
+    "text": "مئوي",
+    "frequency": 1},
+  {
+    "text": "جدد",
+    "frequency": 1},
+  {
+    "text": "إعلامي",
+    "frequency": 3},
+  {
+    "text": "لذيذ",
+    "frequency": 2},
+  {
+    "text": "محفز",
+    "frequency": 1},
+  {
+    "text": "أعمال",
+    "frequency": 1},
+  {
+    "text": "تواضع",
+    "frequency": 2},
+  {
+    "text": "لامعرف",
+    "frequency": 1},
+  {
+    "text": "ذهبي",
+    "frequency": 1},
+  {
+    "text": "ابرك",
+    "frequency": 1},
+  {
+    "text": "هوادة",
+    "frequency": 1},
+  {
+    "text": "تمام",
+    "frequency": 1},
+  {
+    "text": "حكائي",
+    "frequency": 1},
+  {
+    "text": "استفاضة",
+    "frequency": 1},
+  {
+    "text": "شميل",
+    "frequency": 1},
+  {
+    "text": "رسم",
+    "frequency": 3},
+  {
+    "text": "ميقات",
+    "frequency": 1},
+  {
+    "text": "ستاذ",
+    "frequency": 1},
+  {
+    "text": "جا",
+    "frequency": 1},
+  {
+    "text": "أخلص",
+    "frequency": 3},
+  {
+    "text": "جسيم",
+    "frequency": 2},
+  {
+    "text": "ذهني",
+    "frequency": 1},
+  {
+    "text": "إستحقاق",
+    "frequency": 1},
+  {
+    "text": "جهنمي",
+    "frequency": 1},
+  {
+    "text": "فظيع",
+    "frequency": 1},
+  {
+    "text": "أوعويشة",
+    "frequency": 2},
+  {
+    "text": "تحلى",
+    "frequency": 2},
+  {
+    "text": "إلهام",
+    "frequency": 1},
+  {
+    "text": "حنفي",
+    "frequency": 1},
+  {
+    "text": "شغفي",
+    "frequency": 1},
+  {
+    "text": "تكاثف",
+    "frequency": 4},
+  {
+    "text": "يهودي",
+    "frequency": 1},
+  {
+    "text": "نتفلسف",
+    "frequency": 1},
+  {
+    "text": "مكلف",
+    "frequency": 3},
+  {
+    "text": "تسمى",
+    "frequency": 1},
+  {
+    "text": "فقرة",
+    "frequency": 1},
+  {
+    "text": "إيقاع",
+    "frequency": 1},
+  {
+    "text": "جمهورية",
+    "frequency": 5},
+  {
+    "text": "يعانف",
+    "frequency": 1},
+  {
+    "text": "الأركيولوجي",
+    "frequency": 1},
+  {
+    "text": "عاطفة",
+    "frequency": 1},
+  {
+    "text": "عزوزي",
+    "frequency": 1},
+  {
+    "text": "يستقبلكم",
+    "frequency": 1},
+  {
+    "text": "معاملة",
+    "frequency": 3},
+  {
+    "text": "البيوتكنولوجيا",
+    "frequency": 1},
+  {
+    "text": "تأزم",
+    "frequency": 1},
+  {
+    "text": "إستعدادي",
+    "frequency": 2},
+  {
+    "text": "صاغ",
+    "frequency": 2},
+  {
+    "text": "متابع",
+    "frequency": 1},
+  {
+    "text": "صف",
+    "frequency": 1},
+  {
+    "text": "فلوريدا",
+    "frequency": 1},
+  {
+    "text": "منتوج",
+    "frequency": 1},
+  {
+    "text": "سريع",
+    "frequency": 2},
+  {
+    "text": "كلام",
+    "frequency": 1},
+  {
+    "text": "نجاح",
+    "frequency": 1},
+  {
+    "text": "أركيولوجية",
+    "frequency": 1},
+  {
+    "text": "رجاء",
+    "frequency": 1},
+  {
+    "text": "ملخص",
+    "frequency": 1},
+  {
+    "text": "تخليد",
+    "frequency": 2},
+  {
+    "text": "تيفي",
+    "frequency": 2},
+  {
+    "text": "تسمم",
+    "frequency": 2},
+  {
+    "text": "ورقي",
+    "frequency": 1},
+  {
+    "text": "تبريك",
+    "frequency": 1},
+  {
+    "text": "إلياس",
+    "frequency": 1},
+  {
+    "text": "ظهر",
+    "frequency": 1},
+  {
+    "text": "مشيد",
+    "frequency": 1},
+  {
+    "text": "خطأ",
+    "frequency": 1},
+  {
+    "text": "لسيرورة",
+    "frequency": 1},
+  {
+    "text": "مناهضة",
+    "frequency": 2},
+  {
+    "text": "عقاري",
+    "frequency": 3},
+  {
+    "text": "عكف",
+    "frequency": 1},
+  {
+    "text": "عون",
+    "frequency": 1},
+  {
+    "text": "شهري",
+    "frequency": 1},
+  {
+    "text": "صيغة",
+    "frequency": 1},
+  {
+    "text": "مسلوب",
+    "frequency": 1},
+  {
+    "text": "ماثل",
+    "frequency": 1},
+  {
+    "text": "متوار",
+    "frequency": 1},
+  {
+    "text": "تحكم",
+    "frequency": 1},
+  {
+    "text": "بنى",
+    "frequency": 1},
+  {
+    "text": "منعقد",
+    "frequency": 1},
+  {
+    "text": "تجدد",
+    "frequency": 1},
+  {
+    "text": "مصادفة",
+    "frequency": 1},
+  {
+    "text": "توظيف",
+    "frequency": 1},
+  {
+    "text": "ثني",
+    "frequency": 1},
+  {
+    "text": "عمى",
+    "frequency": 1},
+  {
+    "text": "سلم",
+    "frequency": 2},
+  {
+    "text": "يستنط",
+    "frequency": 1},
+  {
+    "text": "لبى",
+    "frequency": 1},
+  {
+    "text": "شغف",
+    "frequency": 1},
+  {
+    "text": "متحور",
+    "frequency": 1},
+  {
+    "text": "قنيطر",
+    "frequency": 1},
+  {
+    "text": "دل",
+    "frequency": 1},
+  {
+    "text": "تضعني",
+    "frequency": 1},
+  {
+    "text": "تشالوكا",
+    "frequency": 1},
+  {
+    "text": "آنف",
+    "frequency": 2},
+  {
+    "text": "فقط",
+    "frequency": 2},
+  {
+    "text": "ميشيل",
+    "frequency": 1},
+  {
+    "text": "إجرء",
+    "frequency": 1},
+  {
+    "text": "مستوعب",
+    "frequency": 1},
+  {
+    "text": "توربين",
+    "frequency": 1},
+  {
+    "text": "نستشرف",
+    "frequency": 1},
+  {
+    "text": "واين",
+    "frequency": 1},
+  {
+    "text": "حدد",
+    "frequency": 1},
+  {
+    "text": "تعبئة",
+    "frequency": 2},
+  {
+    "text": "إصلاحي",
+    "frequency": 1},
+  {
+    "text": "شعر",
+    "frequency": 1},
+  {
+    "text": "أسرع",
+    "frequency": 4},
+  {
+    "text": "خريطة",
+    "frequency": 1},
+  {
+    "text": "متباعد",
+    "frequency": 1},
+  {
+    "text": "متضمن",
+    "frequency": 1},
+  {
+    "text": "عزى",
+    "frequency": 1},
+  {
+    "text": "خرشيش",
+    "frequency": 1},
+  {
+    "text": "تدشين",
+    "frequency": 1},
+  {
+    "text": "جسدي",
+    "frequency": 1},
+  {
+    "text": "مقام",
+    "frequency": 1},
+  {
+    "text": "مضاد",
+    "frequency": 1},
+  {
+    "text": "موافقة",
+    "frequency": 2},
+  {
+    "text": "مصنع",
+    "frequency": 1},
+  {
+    "text": "مساحة",
+    "frequency": 1},
+  {
+    "text": "طفيل",
+    "frequency": 1},
+  {
+    "text": "إيطاليا",
+    "frequency": 1},
+  {
+    "text": "قاطرة",
+    "frequency": 1},
+  {
+    "text": "حصيف",
+    "frequency": 1},
+  {
+    "text": "جواد",
+    "frequency": 2},
+  {
+    "text": "جلال",
+    "frequency": 1},
+  {
+    "text": "حامل",
+    "frequency": 1},
+  {
+    "text": "لذة",
+    "frequency": 1},
+  {
+    "text": "تخصيص",
+    "frequency": 1},
+  {
+    "text": "جعفر",
+    "frequency": 1},
+  {
+    "text": "تبدى",
+    "frequency": 1},
+  {
+    "text": "شخصانية",
+    "frequency": 1},
+  {
+    "text": "قصر",
+    "frequency": 2},
+  {
+    "text": "كارل",
+    "frequency": 2},
+  {
+    "text": "أدى",
+    "frequency": 1},
+  {
+    "text": "كوارزيت",
+    "frequency": 2},
+  {
+    "text": "ماء",
+    "frequency": 2},
+  {
+    "text": "امتلاء",
+    "frequency": 3},
+  {
+    "text": "روساء",
+    "frequency": 1},
+  {
+    "text": "انتهى",
+    "frequency": 1},
+  {
+    "text": "تضافر",
+    "frequency": 1},
+  {
+    "text": "عبء",
+    "frequency": 1},
+  {
+    "text": "تقديري",
+    "frequency": 1},
+  {
+    "text": "رصد",
+    "frequency": 1},
+  {
+    "text": "ملموس",
+    "frequency": 1},
+  {
+    "text": "أبى",
+    "frequency": 1},
+  {
+    "text": "بوتق",
+    "frequency": 1},
+  {
+    "text": "رعى",
+    "frequency": 1},
+  {
+    "text": "طفولة",
+    "frequency": 1},
+  {
+    "text": "كينونتنا",
+    "frequency": 1},
+  {
+    "text": "استمرارية",
+    "frequency": 1},
+  {
+    "text": "حصل",
+    "frequency": 1},
+  {
+    "text": "منغمس",
+    "frequency": 1},
+  {
+    "text": "حزن",
+    "frequency": 2},
+  {
+    "text": "سينما",
+    "frequency": 1},
+  {
+    "text": "تشويهي",
+    "frequency": 2},
+  {
+    "text": "ستيوارت",
+    "frequency": 1},
+  {
+    "text": "تفسير",
+    "frequency": 1},
+  {
+    "text": "جدار",
+    "frequency": 1},
+  {
+    "text": "نصح",
+    "frequency": 1},
+  {
+    "text": "تصعيد",
+    "frequency": 1},
+  {
+    "text": "تفاعل",
+    "frequency": 3},
+  {
+    "text": "انتقل",
+    "frequency": 1},
+  {
+    "text": "استعمال",
+    "frequency": 2},
+  {
+    "text": "ديوان",
+    "frequency": 1},
+  {
+    "text": "تكافؤ",
+    "frequency": 1},
+  {
+    "text": "مبتكر",
+    "frequency": 2},
+  {
+    "text": "أنهى",
+    "frequency": 1},
+  {
+    "text": "مستدير",
+    "frequency": 1},
+  {
+    "text": "فؤوس",
+    "frequency": 1},
+  {
+    "text": "آرثر",
+    "frequency": 1},
+  {
+    "text": "عاجل",
+    "frequency": 1},
+  {
+    "text": "تهانى",
+    "frequency": 1},
+  {
+    "text": "سديد",
+    "frequency": 1},
+  {
+    "text": "معمق",
+    "frequency": 1},
+  {
+    "text": "انتعش",
+    "frequency": 1},
+  {
+    "text": "عنب",
+    "frequency": 1},
+  {
+    "text": "عرش",
+    "frequency": 1},
+  {
+    "text": "اعترف",
+    "frequency": 1},
+  {
+    "text": "معلم",
+    "frequency": 1},
+  {
+    "text": "فاقة",
+    "frequency": 1},
+  {
+    "text": "شرف",
+    "frequency": 1},
+  {
+    "text": "سيما",
+    "frequency": 1},
+  {
+    "text": "سياسة",
+    "frequency": 1},
+  {
+    "text": "يلتهب",
+    "frequency": 1},
+  {
+    "text": "لواحق",
+    "frequency": 1},
+  {
+    "text": "أخرج",
+    "frequency": 1},
+  {
+    "text": "حجو",
+    "frequency": 2},
+  {
+    "text": "اجتمع",
+    "frequency": 1},
+  {
+    "text": "حرم",
+    "frequency": 1},
+  {
+    "text": "سرطان",
+    "frequency": 1},
+  {
+    "text": "اربعاء",
+    "frequency": 1},
+  {
+    "text": "اختبر",
+    "frequency": 1},
+  {
+    "text": "سطات",
+    "frequency": 1},
+  {
+    "text": "إنجاب",
+    "frequency": 1},
+  {
+    "text": "طعام",
+    "frequency": 1},
+  {
+    "text": "انتي",
+    "frequency": 1},
+  {
+    "text": "عبارة",
+    "frequency": 1},
+  {
+    "text": "توماس",
+    "frequency": 1},
+  {
+    "text": "تصوف",
+    "frequency": 1},
+  {
+    "text": "تعذر",
+    "frequency": 1},
+  {
+    "text": "إسرائيل",
+    "frequency": 1},
+  {
+    "text": "داري",
+    "frequency": 1},
+  {
+    "text": "أوجد",
+    "frequency": 1},
+  {
+    "text": "ساكن",
+    "frequency": 1},
+  {
+    "text": "صد",
+    "frequency": 1},
+  {
+    "text": "غزال",
+    "frequency": 1},
+  {
+    "text": "مفضل",
+    "frequency": 1},
+  {
+    "text": "سلوكي",
+    "frequency": 1},
+  {
+    "text": "ذكرى",
+    "frequency": 1},
+  {
+    "text": "انتشر",
+    "frequency": 3},
+  {
+    "text": "مرفوقة",
+    "frequency": 1},
+  {
+    "text": "أشولي",
+    "frequency": 2},
+  {
+    "text": "بليغ",
+    "frequency": 2},
+  {
+    "text": "علوي",
+    "frequency": 2},
+  {
+    "text": "ربط",
+    "frequency": 1},
+  {
+    "text": "تفضل",
+    "frequency": 2},
+  {
+    "text": "منازاعات",
+    "frequency": 1},
+  {
+    "text": "دجنبر",
+    "frequency": 2},
+  {
+    "text": "إدغار",
+    "frequency": 1},
+  {
+    "text": "فلسطين",
+    "frequency": 1},
+  {
+    "text": "سابغ",
+    "frequency": 1},
+  {
+    "text": "محفوظ",
+    "frequency": 1},
+  {
+    "text": "مبرم",
+    "frequency": 1},
+  {
+    "text": "أمبير",
+    "frequency": 2},
+  {
+    "text": "متناهي",
+    "frequency": 2},
+  {
+    "text": "لغز",
+    "frequency": 1},
+  {
+    "text": "مصر",
+    "frequency": 1},
+  {
+    "text": "رحبة",
+    "frequency": 1},
+  {
+    "text": "هوسرل",
+    "frequency": 1},
+  {
+    "text": "استقلالي",
+    "frequency": 1},
+  {
+    "text": "شفوي",
+    "frequency": 1},
+  {
+    "text": "شمولي",
+    "frequency": 1},
+  {
+    "text": "دفعة",
+    "frequency": 1},
+  {
+    "text": "قارئ",
+    "frequency": 1},
+  {
+    "text": "تسهيل",
+    "frequency": 2},
+  {
+    "text": "ظرفي",
+    "frequency": 1},
+  {
+    "text": "مراقبة",
+    "frequency": 1},
+  {
+    "text": "رياضية",
+    "frequency": 2},
+  {
+    "text": "احتمال",
+    "frequency": 1},
+  {
+    "text": "صراع",
+    "frequency": 1},
+  {
+    "text": "يمتحن",
+    "frequency": 1},
+  {
+    "text": "واقعية",
+    "frequency": 1},
+  {
+    "text": "مذهب",
+    "frequency": 2},
+  {
+    "text": "مسطرة",
+    "frequency": 1},
+  {
+    "text": "توسط",
+    "frequency": 1},
+  {
+    "text": "اعتبر",
+    "frequency": 2},
+  {
+    "text": "وقيعة",
+    "frequency": 1},
+  {
+    "text": "تعليق",
+    "frequency": 1},
+  {
+    "text": "نقد",
+    "frequency": 1},
+  {
+    "text": "تجربي",
+    "frequency": 1},
+  {
+    "text": "أوضح",
+    "frequency": 1},
+  {
+    "text": "انخرط",
+    "frequency": 1},
+  {
+    "text": "رصيد",
+    "frequency": 2},
+  {
+    "text": "تمرس",
+    "frequency": 1},
+  {
+    "text": "إشراف",
+    "frequency": 2},
+  {
+    "text": "مصنوع",
+    "frequency": 1},
+  {
+    "text": "نظام",
+    "frequency": 1},
+  {
+    "text": "وشى",
+    "frequency": 1},
+  {
+    "text": "منفى",
+    "frequency": 1},
+  {
+    "text": "مرلو",
+    "frequency": 1},
+  {
+    "text": "كره",
+    "frequency": 1},
+  {
+    "text": "أملى",
+    "frequency": 1},
+  {
+    "text": "حديد",
+    "frequency": 1},
+  {
+    "text": "منظور",
+    "frequency": 1},
+  {
+    "text": "هاتفي",
+    "frequency": 2},
+  {
+    "text": "ثأثير",
+    "frequency": 1},
+  {
+    "text": "تظلم",
+    "frequency": 1},
+  {
+    "text": "اسشفايء",
+    "frequency": 1},
+  {
+    "text": "استشراقي",
+    "frequency": 1},
+  {
+    "text": "عظيم",
+    "frequency": 1},
+  {
+    "text": "استعرض",
+    "frequency": 1},
+  {
+    "text": "سياحي",
+    "frequency": 1},
+  {
+    "text": "بومسهولي",
+    "frequency": 1},
+  {
+    "text": "عدائي",
+    "frequency": 1},
+  {
+    "text": "شكك",
+    "frequency": 1},
+  {
+    "text": "كفى",
+    "frequency": 1},
+  {
+    "text": "يصدم",
+    "frequency": 1},
+  {
+    "text": "اختصاصي",
+    "frequency": 1},
+  {
+    "text": "تكون",
+    "frequency": 1},
+  {
+    "text": "موفور",
+    "frequency": 1},
+  {
+    "text": "تأدية",
+    "frequency": 1},
+  {
+    "text": "دافئ",
+    "frequency": 1},
+  {
+    "text": "فولفغانغ",
+    "frequency": 1},
+  {
+    "text": "ختامي",
+    "frequency": 1},
+  {
+    "text": "منكب",
+    "frequency": 1},
+  {
+    "text": "أوربي",
+    "frequency": 1},
+  {
+    "text": "سبيع",
+    "frequency": 1},
+  {
+    "text": "محتوى",
+    "frequency": 2},
+  {
+    "text": "رب",
+    "frequency": 1},
+  {
+    "text": "موازاة",
+    "frequency": 1},
+  {
+    "text": "محلل",
+    "frequency": 1},
+  {
+    "text": "أرشدي",
+    "frequency": 1},
+  {
+    "text": "حقد",
+    "frequency": 1},
+  {
+    "text": "إشراك",
+    "frequency": 1},
+  {
+    "text": "صليحة",
+    "frequency": 1},
+  {
+    "text": "راصد",
+    "frequency": 1},
+  {
+    "text": "مبتسم",
+    "frequency": 1},
+  {
+    "text": "لعصبتي",
+    "frequency": 1},
+  {
+    "text": "berkan",
+    "frequency": 1},
+  {
+    "text": "مايعد",
+    "frequency": 1},
+  {
+    "text": "منتصر",
+    "frequency": 1},
+  {
+    "text": "سكني",
+    "frequency": 1},
+  {
+    "text": "صفر",
+    "frequency": 1},
+  {
+    "text": "أفضى",
+    "frequency": 1},
+  {
+    "text": "تجنب",
+    "frequency": 1},
+  {
+    "text": "مترشح",
+    "frequency": 1},
+  {
+    "text": "شاعر",
+    "frequency": 1},
+  {
+    "text": "اكتفى",
+    "frequency": 1},
+  {
+    "text": "اقتصاد",
+    "frequency": 1},
+  {
+    "text": "بوشكور",
+    "frequency": 1},
+  {
+    "text": "سلسلة",
+    "frequency": 1},
+  {
+    "text": "حائط",
+    "frequency": 1},
+  {
+    "text": "نهج",
+    "frequency": 1},
+  {
+    "text": "حاضنة",
+    "frequency": 1},
+  {
+    "text": "قول",
+    "frequency": 1},
+  {
+    "text": "تعدى",
+    "frequency": 1},
+  {
+    "text": "ذرفوفي",
+    "frequency": 1},
+  {
+    "text": "حصة",
+    "frequency": 1},
+  {
+    "text": "إخلاء",
+    "frequency": 1},
+  {
+    "text": "فيديو",
+    "frequency": 1},
+  {
+    "text": "معدة",
+    "frequency": 1},
+  {
+    "text": "معماري",
+    "frequency": 1},
+  {
+    "text": "ينتشل",
+    "frequency": 1},
+  {
+    "text": "لغم",
+    "frequency": 1},
+  {
+    "text": "روائي",
+    "frequency": 1},
+  {
+    "text": "OUJDA",
+    "frequency": 400},
+  {
+    "text": "مطابقة",
+    "frequency": 1},
+]
