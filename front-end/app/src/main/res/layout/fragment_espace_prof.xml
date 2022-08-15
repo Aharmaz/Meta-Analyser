@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginStart="17dp"
+        android:layout_marginEnd="17dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="50dp">
+
+        <Button
+            android:id="@+id/sujets_prop_prof_btn"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_sujets_prop_prof_background"
+            android:layout_marginStart="14dp"
+            android:layout_marginEnd="14dp"
+            android:layout_marginTop="78dp"
+            android:text="Sujets proposés"/>
+
+        <Button
+            android:id="@+id/demandes_prof_btn"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginStart="14dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="14dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_demandes_prof_background"
+            android:text="Liste des demandes"
+            android:textColor="#C5CAE9" />
+
+
+
+        <Button
+            android:id="@+id/affectations_finales_prof_btn"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginStart="14dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="14dp"
+            android:layout_marginBottom="78dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_affectations_prof_background"
+            android:text="Affectations finales"
+            android:textColor="#B2FF59" />
+
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

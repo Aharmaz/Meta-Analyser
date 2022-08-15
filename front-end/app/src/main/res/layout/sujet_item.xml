@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginTop="8dp"
+    android:layout_marginStart="8dp"
+    android:layout_marginEnd="8dp"
+    app:cardBackgroundColor="#FFFFE8"
+    app:cardCornerRadius="8dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="8dp">
+
+
+
+        <TextView
+            android:id="@+id/titre_sujet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Titre :  "
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:layout_alignParentTop="true"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/titre_sujet_db"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:text="mise en place d'un dataset pour la prediction des personnes ayant le covid 19"
+            android:layout_alignParentEnd="true"
+
+            android:layout_below="@id/titre_sujet"
+            />
+
+        <TextView
+            android:id="@+id/encadrant_sujet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Encadrant :  "
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:layout_below="@+id/titre_sujet_db"
+
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/encadrant_sujet_db"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:text="Youssef Mellah"
+
+            android:layout_below="@+id/titre_sujet_db"
+            android:layout_toEndOf="@+id/encadrant_sujet"
+
+
+
+
+            />
+
+        <TextView
+            android:id="@+id/nb_max_sujet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Etudiants/groupe :  "
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:layout_below="@+id/encadrant_sujet_db"
+
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/nb_max_sujet_db"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:text="4"
+
+            android:layout_toEndOf="@+id/nb_max_sujet"
+            android:layout_below="@id/encadrant_sujet_db"
+
+
+
+            />
+
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
+
+
+
